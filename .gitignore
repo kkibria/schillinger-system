@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+_*.txt
+_*.py
+*.pdf
