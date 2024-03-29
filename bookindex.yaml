@@ -1,717 +1,697 @@
-b: 
-    - BOOK ONE - THEORY OF RHYTHM -5
-    - b:
-        - Chapter 1. NOTATION SYSTEM 1 
-        - b:
-            - A. Graphing Music 1
-            - B. Forms of Periodicity 3
-        - Chapter 2. INTERFERENCES OF PERIODICITIES 4
-        - b:
-            - A. Binary Synchronization 4
-            - B. Grouping 7 
-        - Chapter 3. THE TECHNIQUES OF GROUPING 12 
-        - Chapter 4. THE TECHNIQUES OF FRACTIONING 15 
-        - Chapter 5. COMPOSITION OF GROUPS BY PAIRS 21
-        - Chapter 6. UTILIZATION OF THREE OR MORE GENERATORS 24
-        - b:
-            - A. The Technique of Synchronization 25
-        - Chapter 7. RESULTANTS APPLIED TO INSTRUMENTAL FORMS 27
-        - b:
-            - A. Instrumental Rhythm 27
-            - B. Applying the Principles of Interference to Harmony 29
-        - Chapter 8. COORDINATION OF TIME STRUCTURES 34
-        - b:
-            - A. Distribution of a Duration-Group 35
-            - B. Synchronization of an Attack-Group 36
-            - C. Distribution of a Synchronized Duration-Group 37
-            - D. Synchronization of an Instrumental Group 39
-        - Chapter 9. HOMOGENEOUS SIMULTANEITY AND CONTINUITY (VARIATIONS) 46
-        - b:
-            - A. General and Circular Permutations 46
-        - Chapter 10. GENERALIZATION OF VARIATION TECHNIQUES 63
-        - b:
-            - A. Permutations of the Higher Order 63
-        - Chapter 11. COMPOSITION OF HOMOGENEOUS RHYTHMIC CONTINUITY 67
-        - Chapter 12. DISTRIBUTIVE POWERS 70
-        - b:
-            - A. Continuity of Harmonic Contrasts 70
-            - B. Composition of Rhythmic Counterthemes 74
-        - Chapter 13. EVOLUTION OF RHYTHM STYLES (FAMILIES) 84
-        - b:
-            - A. Swing Music 85
-        - Chapter 14. RHYTHMS OF VARIABLE VELOCITIES 90
-        - b:
-            - A. Acceleration in Uniform Groups 92 
-            - B. Acceleration in Non-uniform Groups 93
-            - C. Rubato 93
-            - D. Fermata 94
-
-    - BOOK TWO - THEORY OF PITCH-SCALES 97
-    - b:
-        - Chapter 1. PITCH-SCALES AND EQUAL TEMPERAMENT 101
-        - "Chapter 2. FIRST GROUP OF PITCH-SCALES: Diatonic aid Related Scales 103"
-        - b:
-            - A. One-unit Scales. Zero Intervals 103
-            - B. Two-unit Scales. One Interval 103
-            - C. Three-unit Scales. Two Intervals 105
-            - D. Four-unit Scales. Three Intervals 109
-            - E. Scales of Seven Units 111
-        - Chapter 3. EVOLUTION OF PITCH-SCALE STYLES 115
-        - b:
-            - A. Relating Pitch-Scales through the Identity of Intervals 115
-            - B. Relating Pitch-Scales through the Identity of Pitch-Units 116
-            - C. Evolving Pitch-Scales through the Method of Summation 119
-            - D. Evolving Pitch-Scales through the Selection of Intervals 119
-            - E. Historical Development of Scales 121
-        - Chapter 4. MELODIC MODULATION AND VARIABLE PITCH AXES 125
-        - b:
-            - A. Primary Axis 125 
-            - B. Key-Axis 126
-            - C. Four Forms of Axis-Relations 126
-            - D. Modulating through Common Units 129
-            - E. Modulating through Chromatic Alteration 130
-            - F. Modulating through Identical Motifs 131
-        - "Chapter 5. PITCH-SCALES: THE SECOND GROUP: Scales in Expansion 133"
-        - b:
-            - A. Methods of Tonal Expansion 133
-            - B. Translation of Melody into Various Expansions 136
-            - C. Variable Pitch Axes (Modulation) 137
-            - D. Technique of Modulation in Scales of the Second Group 138
-        - Chapter 6. SYMMETRIC DISTRIBUTION OF PITCH-UNITS 144
-        - "Chapter 7. PITCH-SCALES: THE THIRD GROUP: Symmetrical Scales 148"
-        - b:
-            - A. Table of Symmetric Systems Within 12-root-2 148
-            - B. Table of Arithmetical Values 149
-            - C. Composition of Melodic Continuity in the Third Group 152
-        - "Chapter 8. PITCH-SCALES: THE FOURTH GROUP: Symmetrical Scales of More Than One Octave in Range 155"
-        - b:
-            - A. Melodic Continuity 159
-            - B. Directional Units 164
-        - Chapter 9. MELODY-HARMONY RELATIONSHIP IN SYMMETRIC SYSTEMS 168
-
-    - BOOK THREE - VARIATIONS OF MUSIC BY MEANS OF GEOMETRICAL PROJECTION 181
-    - b:
-        - Chapter 1. GEOMETRICAL INVERSIONS 185
-        - Chapter 2. GEOMETRICAL EXPANSIONS 208
-
-
-    - BOOK FOUR - THEORY OF MELODY 223
-    - b:
-        - Chapter 1. INTRODUCTION 227
-        - b:
-            - A. Semantics 229
-            - B. Semantics of Melody 231
-            - C. Intentional Biomechanical Processes 234
-            - D. Definition of Melody 235
-        - Chapter 2. PRELIMINARY DISCUSSION OF NOTATION 236
-        - b:
-            - A. History of Musical Notation 236
-            - B. Mathematical Notation, General Component 239
-            - b:
-                - 1. Notation of Time 239
-            - C. Special Components 240
-            - b:
-                - 1. Notation of Pitch 240
-                - 2. Notation of Intensity 241
-                - 3. Notation of Quality 242
-            - D. Relative and Absolute Standards 242
-            - E. Geometrical (Graph) Notation 244
-        - Chapter 3. THE AXES OF MELODY 246
-        - b:
-            - A. Primary Axis of Melody 246
-            - B. Analysis of Three Examples 247
-            - C. Secondary Axes 252
-            - D. Examples of Axial Combinations 253
-            - E. Selective Continuity of the Axial Combinations 259
-            - F. Time Ratios of the Secondary Axes 261
-            - G. Pitch Ratios of the Secondary Axes 268
-            - H. Correlation of Time and Pitch Ratios of the Secondary Axes 275
-        - "Chapter 4. MELODY: CLIMAX AND RESISTANCE 279"
-        - b:
-            - A. Forms of Resistance Applied to Melodic Trajectories 284
-            - B. Distribution of Climaxes in Melodic Continuity 298
-        - Chapter 5. SUPERIMPOSITION OF PITCH AND TIME ON THE AXES 299
-        - b:
-            - A. Secondary Axes 302
-            - B. Forms of Trajectorial Motion 305
-        - Chapter 6. COMPOSITION OF MELODIC CONTINUITY 313
-        - Chapter 7. ADDITIONAL MELODIC TECHNIQUES 322
-        - b:
-            - A. Use of Symmetric Scales 322
-            - B. Technique of Plotting Modulations 326
-        - Chapter 8. USE OF ORGANIC FORMS IN MELODY 329
-
-    - BOOK FIVE - SPECIAL THEORY OF HARMONY 353
-    - b:
-        - Chapter 1. INTRODUCTION 359
-        - Chapter 2. THE DIATONIC SYSTEM OF HARMONY 361
-        - b:
-            - A. Diatonic Progressions (Positive Form) 362
-            - B. Historical Development of Cycle Styles 368
-            - C. Transformations of S(5) 376
-            - D. Voice-Leading 378
-            - E. How Cycles and Transformations Are Related 382
-            - F. The Negative Form 386
-        - Chapter 3. THE SYMMETRIC SYSTEM OF HARMONY 388
-        - b:
-            - A. Structures of S(5) 388
-            - B. Symmetric Progressions. Symmetric Zero Cycle (Co) 391
-        - Chapter 4. THE DIATONIC-SYMMETRIC SYSTEM OF HARMONY (TYPE II) 393
-        - Chapter 5. THE SYMMETRIC SYSTEM OF HARMONY (TYPE III) 396
-        - b:
-            - A. Two Tonics 397
-            - B. Three Tonics 399
-            - C. Four Tonics 399
-            - D. Six Tonics 400
-            - E. Twelve Tonics 400
-        - Chapter 6. VARIABLE DOUBLINGS IN HARMONY 401
-        - Chapter 7. INVERSIONS OF THE S(5) CHORD 406
-        - b:
-            - A. Doublings of S(6) 410
-            - B. Continuity of S(5) and S(6) 412
-        - Chapter 8. GROUPS WITH PASSING CHORDS 414
-        - b:
-            - A. Passing Sixth Chords 415
-            - B. Continuity of G6 416
-            - C. Generalization of G6 417
-            - D. Continuity of the Generalized G6 418
-            - E. Generalization of the Passing Third 418
-            - F. Applications of G6 to Diatonic-Symmetric (Type II) and Symmetric (Type III) Progressions 419
-            - b:
-                - 1. Progressions of Type II 420
-                - 2. Progressions of Type IT 1 421
-            - "G. Passing Fourth-sixth Chords: S'(-f) 427"
-            - H. Cycles and Goups Mixed 434
-        - Chapter 9. THE SEVENTH CHORD 436
-        - b:
-            - A. Diatonic System 436
-            - B. The Resolution of S(7) 439
-            - C. With Negative Cycles 443
-            - D. S(7) in the Symmetric Zero Cycle (C0) 446
-            - E. Hybrid Five-Part Harmony 451
-        - Chapter 10. THE NINTH CHORD 460
-        - b:
-            - A. S(9) in the Diatonic System 460
-            - B. S(9) in the Symmetric System 464
-        - Chapter 11. THE ELEVENTH CHORD 469
-        - b:
-            - A. S(ll) in the Diatonic System 469
-            - B. Preparation of S(ll) 470
-            - C. S(ll) in the Symmetric System 473
-            - D. In Hybrid Four-Part Harmony 478
-        - Chapter 12. GENERALIZATION OF SYMMETRIC PROGRESSIONS 489
-        - b:
-            - A. Generalized Symmetric Progressions as Applied to Modulation Problems 492
-        - Chapter 13. THE CHROMATIC SYSTEM OF HARMONY 495
-        - b:
-            - A. Operations from S3 (5) and S4 (5) bases 501
-            - B. Chromatic Alteration of the Seventh 503
-            - C. Parallel Double Chromatics 503
-            - D. Triple and Quadruple Parallel Chromatics 506
-            - E. Enharmonic Treatment of the Chromatic System 508
-            - F. Overlapping Chromatic Groups 511
-            - G. Coinciding Chromatic Groups 514
-        - Chapter 14. MODULATIONS IN THE CHROMATIC SYSTEM 518
-        - b:
-            - A. Indirect Modulations 524
-        - Chapter 15. THE PASSING SEVENTH GENERALIZED 531
-        - b:
-            - A. Generalized Passing Seventh in Progressions of Type III 534
-            - B. Generalization of Passing Chromatic Tones 537
-            - C. Altered Chords 542
-        - Chapter 16. AUTOMATIC CHROMATIC CONTINUITIES 544
-        - b:
-            - A. In Four Part Harmony 544
-        - Chapter 17. HYBRID HARMONIC CONTINUITIES 552
-        - Chapter 18. LINKING HARMONIC CONTINUITIES 554
-        - Chapter 19. A DISCUSSION OF PEDAL POINTS 559
-        - b:
-            - A. Classical Pedal Point 561
-            - B. Diatonic Pedal Point 563
-            - C. Chromatic (Modulating) Pedal Point 565
-            - D. Symmetric Pedal Point 566
-        - Chapter 20. MELODIC FIGURATION; PRELIMINARY SURVEY OF THE TECHNIQUES 569
-        - b:
-            - A. Four Types of Melodic Figuration 569
-        - Chapter 21. SUSPENSIONS, PASSING TONES AND ANTICIPATIONS 572
-        - b:
-            - A. Types of Suspensions 573
-            - B. Passing Tones 575
-            - C. Anticipations 579
-        - Chapter 22. AUXILIARY TONES 584
-        - Chapter 23. NEUTRAL AND THEMATIC MELODIC FIGURATION 597
-        - Chapter 24. CONTRAPUNTAL VARIATIONS OF HARMONY 606
-
-
-    - BOOK SIX - THE CORRELATION OF HARMONY AND MELODY 615
-    - b:
-        - Chapter 1. THE MELODIZATION OF HARMONY 619
-        - b:
-            - A. Diatonic Melodization 622
-            - B. More than one Attack in Melody per H 625
-        - Chapter 2. COMPOSING MELODIC ATTACK-GROUPS 642
-        - b:
-            - A. How the Durations for Attack-Groups of Melody Are Composed 646
-            - B. Direct Composition of Durations Correlating Melody and Harmony 650
-            - C. Chromatic Variation of Diatonic Melodization 652
-            - "D. Symmetric Melodization: The 2 Families 654"
-            - E. Chromatic Variation of a Symmetric Melodization 661
-            - F. Chromatic Melodization of Harmony 662
-            - G. Statistical Melodization of Chromatic Progressions 663
-        - Chapter 3. THE HARMONIZATION OF MELODY 666
-        - b:
-            - A. Diatonic Harmonization of a Diatonic Melody 666
-            - B. Chromatic Harmonization of a Diatonic Melody 670
-            - C. Symmetric Harmonization of a Diatonic Melody 671
-            - D. Symmetric Harmonization of a Symmetric Melody 675
-            - E. Chromatic Harmonization of a Symmetric Melody 681
-            - F. Diatonic Harmonization of a Symmetric Melody 684
-            - G. Chromatic Harmonization of a Chromatic Melody 685
-            - H. Diatonic Harmonization of a Chromatic Melody 687
-            - I. Symmetric Harmonization of a Chromatic Melody 688
-
-
-    - BOOK SEVEN - THEORY OF COUNTERPOINT 691
-    - b:
-        - Chapter 1. THE THEORY OF HARMONIC INTERVALS 697
-        - b:
-            - A. Some Acoustical Fallacies 697
-            - B. Classification of Harmonic Intervals Within the Equal Temperament of Twelve 700
-            - C. Resolution of Harmonic Intervals 702
-            - D. Resolution of Chromatic Intervals 705
-        - Chapter 2. THE CORRELATION OF TWO MELODIES 708
-        - b:
-            - A. Two-Part Counterpoint. 708
-            - B. CP/CF =a 709
-            - C. Forms of Harmonic Correlation 709
-            - D. CP/CF = 2a 711
-            - E. CP/CF = 3a 714
-            - F. CP/CF = 4a 716
-            - G. CP/CF = 5a 717
-            - H. CP/CF = 6a 719
-            - I. CP/CF = 7a 722
-            - J. CP/CF = 8a 723
-        - Chapter 3. ATTACK-GROUPS IN TWO-PART COUNTERPOINT 726
-        - b:
-            - A. More than One Attack of CF to CP 728
-            - B. Direct Composition of Durations in Two-Part Counterpoint 733
-            - C. Chromatization of Diatonic Counterpoint 739
-        - Chapter 4. THE COMPOSITION OF CONTRAPUNTAL CONTINUITY 742
-        - Chapter 5. CORRELATION OF MELODIC FORMS IN TWO-PART COUNTERPOINT - 753
-        - b:
-            - A. Use of Monomial Axes 753
-            - B. Binomial Axes Groups 754
-            - C. Trinomial Axial Combinations 756
-            - D. Polynomial Axial Combinations 757
-            - K. Developing Axial Relations Through Attack-Groups 758
-            - F. Interference of Axis-Groups 760
-            - G. Correlation of Pitch-Time Ratios of the Axes 762
-            - H. Composition of a Counterpart to a Given Melody by Means of Axial Correlation 770
-        - Chapter 6. TWO-PART COUNTERPOINT WITH SYMMETRIC SCALES 772
-        - Chapter 7. CANONS AND CANONIC IMITATIONS 777
-        - b:
-            - A. Temporal Structure of Continuous Imitation 778
-            - b:
-                - 1. Temporal structures composed from the parts of resultants 779
-                - 2. Temporal structures composed from complete resultants 779
-                - 3. Temporal structures evolved by means of permutations 780
-                - 4. Temporal structures composed from synchronized involution-groups 781
-                - 5. Temporal structures composed from acceleration-groups and their inversions 782
-            - B. Canons in All Four Types of Harmonic Correlation 783
-            - C. Composition of Canonic Continuity by means of Geometrical Inversions 787
-        - Chapter 8. THE ART OF THE FUGUE 790
-        - b:
-            - A. The Form of the Fugue 790
-            - B. Forms of Imitation Evolved Through Four Quadrants 792
-            - C. Steps in the Composition of a Fugue 794
-            - D. Composition of the Theme 794
-            - E. Preparation of the Exposition 802
-            - F. Composition of the Exposition 806
-            - G. Preparation of the Interludes 807
-            - H. Non-Modulating Interludes 808
-            - I. Modulating Interludes 809
-            - J. Assembly of the Fugue 813
-        - Chapter 9. TWO-PART CONTRAPUNTAL MELODIZATION OF A GIVEN HARMONIC CONTINUUM 823
-        - b:
-            - A. Melodization of Diatonic Harmony by means of Two-Part Diatonic Counterpoint 824
-            - B. Chromatization of Two-Part Diatonip Melodization 828
-            - C. Melodization of Symmetric Harmony 829
-            - D. Chromatization of a Symmetric Two-Part Melodization 832
-            - E. Melodization of Chromatic Harmony by means of Two-Part Counterpoint 833
-        - Chapter 10. ATTACK-GROUPS FOR TWO-PART MELODIZATION 836
-        - b:
-            - A. Composition of Durations 838
-            - B. Direct Composition of Durations 841
-            - C. Composition of Continuity 843
-        - Chapter 11. HARMONIZATION OF TWO-PART COUNTERPOINT 856
-        - b:
-            - A. Diatonic Harmonization 856
-            - B. Chromatization of Harmony accompanying Two-Part Diatonic Counterpoint (Types I and II) 862
-            - C. Diatonic Harmonization of Chromatic Counterpoint whose origin is Diatonic (Types I and II) 863
-            - D. Symmetric Harmonization of Diatonic Two-Part Counterpoint (Types I, II, III, IV) 865
-            - E. Symmetric Harmonization of Chromatic Two-Part Counterpoint 869
-            - F. Symmetric Harmonization of Symmetric Two-Part Counterpoint 872
-        - Chapter 12. MELODIC, HARMONIC AND CONTRAPUNTAL OSTINATO 874
-        - b:
-            - A. Melodic Ostinato (Basso) 874
-            - B. Harmonic Ostinato 875
-            - C. Contrapuntal Ostinato, 876
-
-    - BOOK EIGHT - INSTRUMENTAL FORMS 879
-    - b:
-        - Chapter 1. MULTIPLICATION OF ATTACKS 883
-        - b:
-            - A. Nomenclature 883
-            - B. Sources of Instrumental Forms 884
-            - C. Definition of Instrumental Forms 884
-        - Chapter 2. STRATA OF ONE PART 886
-        - Chapter 3. STRATA OF TWO PARTS 890
-        - b:
-            - A. General Classification of I (S == 2p) 890
-            - B. Instrumental Forms of S--2p 901
-        - Chapter 4. STRATA OF THREE PARTS 910
-        - b:
-            - A. General Classification of I (S=3p) 910
-            - B. Development of Attack-Groups by Means of Coefficients of Recurrence 912
-            - C. Instrumental Forms of S~3p 931
-        - Chapter 5. STRATA OF FOUR PARTS 948
-        - b:
-            - A. General Classification of I (S=4p) 948
-            - B. Development of Attack-Groups by Means of Coefficients of Recurrence 951
-            - C. Instrumental Forms of S = 4p 988
-        - Chapter 6. COMPOSITION OF INSTRUMENTAL STRATA 1003
-        - b:
-            - A. Identical Octave Positions 1003
-            - B. Acoustical Conditions for Setting the Bass 1011
-        - Chapter 7. SOME INSTRUMENTAL FORMS OF ACCOMPANIED MELODY 1018
-        - b:
-            - A. Melody with Harmonic Accompaniment 1018
-            - B. Instrumental Forms of Duet with Harmonic Accompaniment 1023
-        - Chapter 8. THE USE OF DIRECTIONAL UNITS IN INSTRUMENTAL FORMS OF HARMONY 1027
-        - Chapter 9. INSTRUMENTAL FORMS OF TWO-PART COUNTERPOINT 1032
-        - Chapter 10. INSTRUMENTAL FORMS FOR PIANO COMPOSITION 1043
-        - b:
-            - A. Position of Hands with Respect to the Keyboard 1048
-
-
-    - "BOOK NINE - GENERAL THEORY OF HARMONY: STRATA HARMONY 1057"
-    - b:
-        - Introduction to Strata Harmony 1063
-        - Chapter 1. ONE-PART HARMONY 1065
-        - b:
-            - A. One Stratum of One-Part Harmony 1065
-        - Chapter 2. TWO-PART HARMONY 1066
-        - b:
-            - A. One Stratum of Two-Part Harmony 1066
-            - B. One Two-Part Stratum 1074
-            - C. Two Hybrid Strata 1076
-            - D. Table of Hybrid Three-Part Structures 1076
-            - E. Examples of Hybrid Three-Part Harmony 1080
-            - F. Two Strata of Two-Part Harmonies 1083
-            - G. Examples of Progressions in Two Strata 1085
-            - H. Three Hybrid Strata 1087
-            - I. Three, Four, and More Strata of Two-Part Harmonies 1089
-            - J. Diatonic and Symmetric Limit? and the Compound Sigmae of Two-Part Strata 1096
-            - K. Compound Sigmae 1097
-        - Chapter 3. THREE-PART HARMONY 1103
-        - b:
-            - A. One Stratum of Three-Part Harmony 1103
-            - B. Transformations of S-3p 1106
-            - C. Two Strata of Three-Part Harmonies. 1110
-            - D. Three Strata of Three-Part Harmonies 1114
-            - E. Four and More Strata of Three-Part Harmonies 1117
-            - F. The Limits of Three-Part Harmonies 1120
-            - b:
-                - 1. Diatonic Limit 1120
-                - 2. Symmetric Limit 1121
-                - 3. Compound Symmetric Limit 1122
-        - Chapter 4. FOUR-PART HARMONY 1124
-        - b:
-            - A. One Stratum of Four-Part Harmony 1124
-            - B. Transformations of S-4p 1127
-            - C. Examples of Progressions of S-4p 1132
-        - Chapter 5. THE HARMONY OF FOURTHS 1134
-        - Chapter 6. ADDITIONAL DATA ON FOUR-PART HARMONY 1139
-        - b:
-            - A. Special Cases of Four-Part Harmonies in Two Strata. 1139
-            - b:
-                - 1. Reciprocating Strata 1139
-                - 2. Hybrid Symmetric Strata 1141
-            - B. Generalization of the E>2S; S4p 1145
-            - C. Three Strata of Four-Part Harmonies 1148
-            - D. Four and More Strata of Four-IVut Harmonies 1150
-            - E. The Limits of Four-Part Harmonies 1151
-            - b:
-                - 1. Diatonic Limit 1151
-                - 2. Symmetric Limit 1152
-                - 3. Compound Symmetric Limit 1153
-        - Chapter 7. VARIABLE NUMBER OF PARTS IN THE DIFFERENT STRATA OF A SIGMA 1155
-        - b:
-            - A. Construction of Sigmae Belonging to one Family 1158
-            - b:
-                - 1. 2-S 1158
-                - 2. S-4S 1160
-            - B. Progressions with Variable Sigma 1163
-            - C. Distribution of a Given Harmonic Continuity Through Strata 1164
-        - Chapter 8. GENERAL THEORY OF DIRECTIONAL UNITS 1169
-        - b:
-            - A. Directional Units of Sp 1169
-            - B. Directional Units of S2p 1171
-            - C. Directional Units of S3p 1177
-            - D. Directional Units of S4p 1183
-            - E. Strata Composition of Assemblages Containing Directional Units 1187
-            - F. Sequent Groups of Directional Units 1192
-        - APPLICATIONS OF GENERAL HARMONY 1194
-        - Chapter 9. COMPOSITION OF MELODIC CONTINUITY FROM STRATA 1194
-        - b:
-            - A. Melody from one individual part of a stratum 1195
-            - B. Melody from 2p, 3p, 4p of an S 1195
-            - C. Melody from one S 1196
-            - D. Melody from 2S, 3S 1196
-            - E. Generalization of the Method 1197
-            - F. Mixed forms 1197
-            - G. Distribution of Auxiliary Units through p, S and S 1198
-            - H. Variation of original melodic continuity by means of auxiliary tones 1198
-        - Chapter 10. COMPOSITION OF HARMONIC CONTINUITY FROM STRATA 1200
-        - b:
-            - A. Harmony from one stratum 1200
-            - B. Harmony from 2S, 3S 1201
-            - C. Harmony from M 1201
-            - D. Patterns of Distribution 1201
-            - E. Application of Auxiliary Units 1202
-            - F. Variation through Auxiliary Unit  1202
-        - Chapter 11. MELODY WITH HARMONIC ACCOMPANIMENT 1204
-        - Chapter 12. CORRELATED MELODIES 1209
-        - Chapter 13. COMPOSITION OF CANONS FROM STRATA HARMONY 1216
-        - b:
-            - A. Two-Part Continuous Imitation 1216
-            - B. Three-Part Continuous Imitation 1218
-            - C. Four-Part Continuous Imitation 1220
-        - Chapter 14. CORRELATED MELODIES WITH HARMONIC ACCOMPANIMENT 1224
-        - Chapter IS. COMPOSITION OF DENSITY IN ITS APPLICATIONS TO STRATA 1226
-        - b:
-            - A. Technical Premise 1227
-            - B. Composition of Density- groups 1228
-            - C. Permutation of sequent Density-groups 1232
-            - D. Phasic Rotation of A and A~^ 1234
-            - E. Practical Applications of IT* to 2“^ 1242
-
-
-
-    - BOOK TEN - EVOLUTION OF PITCH-FAMILIES (STYLE) 1249
-    - b:
-        - Introduction 1253
-        - Chapter 1. PITCH-SCALES AS A SOURCE OF MELODY 1255
-        - Chapter 2. HARMONY 1258
-        - b:
-            - A. Diatonic Harmony 1258
-            - B. Diatonic-Symmetric Harmony 1261
-            - C. Symmetric Harmony 1262
-            - D. Strata (General) Harmony 1263
-            - E. Melodic Figuration 1264
-            - F. Transposition of Symmetric Roots of Strata 1265
-            - G. Compound Sigma 1266
-        - Chapter 3. MELODIZATION OF HARMONY 1268
-        - b:
-            - A. Diatonic Melodization 1268
-            - B. Symmetric Melodization 1270
-            - C. Conclusion 1271
-
-
-    - BOOK ELEVEN - THEORY OF COMPOSITION 1273
-    - b:
-        - Introduction 1277
-        - Part I Composition of Thematic Units 1279
-        - Chapter 1. COMPONENTS OF THEMATIC UNITS 1279
-        - Chapter 2. TEMPORAL RHYTHM AS MAJOR COMPONENT 1281
-        - Chapter 3. PITCH-SCALE AS MAJOR COMPONENT 1286
-        - Chapter 4. MELODY AS MAJOR COMPONENT 1291
-        - Chapter 5. HARMONY AS MAJOR COMPONENT 1296
-        - Chapter 6. MELODIZATION AS MAJOR COMPONENT 1305
-        - Chapter 7. COUNTERPOINT AS MAJOR COMPONENT 1311
-        - Chapter 8. DENSITY AS MAJOR COMPONENT 1314
-        - Chapter 9. INSTRUMENTAL RESOURCES AS MAJOR COMPONENT 1322
-        - b:
-            - A. Dynamics 1324
-            - B. Tone-Quality 1326
-            - C. Forms of Attack 1327
-        - Part II Composition of Thematic Continuity 1330
-        - Chapter 10. MUSICAL FORM 1330
-        - Chapter 11. FORMS OF THEMATIC SEQUENCE 1333
-        - Chapter 12. TEMPORAL COORDINATION OF THEMATIC SEQUENCE 1335
-        - b:
-            - A. Using the Resultants of Interference 1336
-            - B. Permutation-Groups 1337
-            - C. Involution-Groups 1338
-            - D. Acceleration-Groups 1341
-        - Chapter 13. INTEGRATION OF THEMATIC CONTINUITY 1342
-        - b:
-            - A. Transformation of Thematic Units into Thematic Groups 1342
-            - B. Transformation of Subjects into their Modified Variants 1343
-            - b:
-                - 1. Temporal Modification of a Subject 1343
-                - 2. Intonational Modification of a Subject 1347
-            - C. Axial Synthesis of Thematic Continuity 1349
-        - Chapter 14. PLANNING A COMPOSITION 1351
-        - b:
-            - A. Clock Time Duration of a Composition 1353
-            - B. Temporal Saturation of a Composition 1354
-            - C. Selection of the Number of Subjects and Thematic Groups 1355
-            - D. Selection of a Thematic Sequence 1354
-            - E. Temporal Distribution of Thematic Groups 1358
-            - F. Realization of Continuity in Terms of t and t' 1363
-            - G. Composition of Thematic Units 1365
-            - H. Composition of Thematic Groups 1367
-            - I. Composition of Key-Axes 1367
-            - J. Instrumental Composition 1369
-        - Chapter 15. MONOTHEMATIC COMPOSITION 1370
-        - b:
-            - A. "Song" from "The First Airphonic Suite" 1370
-            - B. "Mouvement Electrique et Pathetique" 1373
-            - C. "Funeral March" for Piano 1379
-            - D. "Study in Rhythm I" for Piano 1383
-            - E. "Study in Rhythm II" for Piano 1388
-        - Chapter 16. POLYTHEMATIC COMPOSITION 1401
-        - Part III Semantic (Connotative) Composition 1410
-        - Chapter 17. SEMANTIC BASIS OF MUSIC 1410
-        - b:
-            - A. Evolution of Sonic Symbols 1410
-            - B. Configurational Orientation and the Psychological Dial 1411
-            - C. Anticipation-Fulfillment Pattern 1415
-            - D. Translating Response Patterns into Geometrical Configurations 1418
-            - E. Complex Forms of Stimulus-Response Configurations 1421
-            - F. Spatio-Temporal Associations 1426
-        - Chapter 18. COMPOSITION OF SONIC SYMBOLS 1432
-        - b:
-            - A. Normal 0. Balance and Repose 1433
-            - B. Upper Quadrant of the Negative Zone 0. Dissatisfaction, Depression and Despair 1436
-            - C. Upper Quadrant of the Positive Zone O. Satisfaction, Strength, and Success 1443
-            - "D. Lower Quadrant of Both Zones 0. Association by Contrast: The Humorous and Fantastic 1453"
-        - Chapter 19. COMPOSITION OF SEMANTIC CONTINUITY 1461
-        - b:
-            - A. Modulation of Sonic Symbols 1462
-            - b:
-                - 1. Temporal Modulation 1462
-                - 2. Intonational Modulation 1463
-                - 3. Configurational Modulation 1464
-            - B. Coordination of Sonic Symbols 1471
-            - C. Classification of Stimulus-Response Patterns 1473
-
-
-    - BOOK TWELVE - THEORY OF ORCHESTRATION 1479
-    - b:
-        - Part I Instruments 1485
-        - Introduction 1485
-        - Chapter 1. STRING-BOW INSTRUMENTS 1489
-        - b:
-            - A. Violin 1490
-            - b:
-                - 1. Tuning 1490
-                - 2. Playing 1490
-                - 3. Range 1501
-                - 4. Quality 1502
-            - B. Viola 1505
-            - C. Violoncello 1506
-            - D. Double-Bass (Contrabass) 1508
-        - Chapter 2. WOODWIND INSTRUMENTS 1511
-        - b:
-            - A. The Flute Family 1511
-            - b:
-                - 1. Flauto Grande 1511
-                - 2. Flauto Piccolo 1513
-                - 3. Flauto Contralto 1513
-            - B. The Clarinet (Single-Reed) Family 1514
-            - b:
-                - 1. Clarinet in Bb and A 1514
-                - 2. Clarinet Piccolo in D and Eb 1516
-                - 3. Clarinet Contralto and Bassethorn 1516
-                - 4. Clarinet Bass in Bb and A 1516
-            - C. The Saxophone (Single-Reed) Family 1517
-            - D. The Oboe (Double-Reed) Family 1518
-            - b:
-                - 1. Oboe 1518
-                - 2. Oboe d’Amore 1520
-                - 3. Corno Inglese (English Horn) 1520
-                - 4. Heckelphone (Baritone Oboe) 1520
-            - E. The Bassoon (Double-Reed) Family 1521
-            - b:
-                - 1. Fagotto (Bassoon) 1521
-                - 2. Fagottino 1522
-                - 3. Contrafagotto. 1522
-        - Chapter 3. BRASS (WIND) INSTRUMENTS 1523
-        - b:
-            - A. Corno (French Horn) 1523
-            - B. Tromba (Trumpet) 1526
-            - b:
-                - 1. Soprano Trumpet in Bb and A 1526
-                - 2. Comet in Bb and A 1528
-                - 3. Piccolo Trumpet in D and Eb 1528
-                - 4. Alto Trumpet 1528
-                - 5. Ban Trumpet 1529
-            - C. Trombone 1529
-            - D. Tuba 1534
-        - Chapter 4. SPECIAL INSTRUMENTS 1536
-        - b:
-            - A. Harp 1536
-            - B. Organ 1541
-        - Chapter 5. ELECTRONIC INSTRUMENTS 1544
-        - b:
-            - A. First Sub-group. Varying Electro-Magnetic Field 1544
-            - b:
-                - 1. Space-controlled Theremin 1544
-                - 2. Fingerboard Theremin 1546
-                - 3. Keyboard Theremin 1547
-            - B. Second Sub-group. Conventional Sources of Sound 1547
-            - b:
-                - 1. Electrified Piano 1548
-                - 2. Solovox 1549
-                - 3. The Hammond Organ 1549
-                - 4. The Novachord 1553
-        - Chapter 6. PERCUSSIVE INSTRUMENTS 1555
-        - b:
-            - A. Group 1. Sound via string or bar 1555
-            - b:
-                - 1. Piano. 1555
-                - 2. Celesta 1558
-                - 3. Glockenspiel 1559
-                - 4. Chimes 1560
-                - 5. Church Bells 1560
-                - 6. Vibraphone 1560
-                - 7. Marimba and Xylophone 1561
-                - 8. Triangle 1562
-                - 9. Wood-Blocks 1563
-                - 10. Castanets 1563
-                - 11. Clavis 1564
-            - B. Group 2. Sound via metal disc 1564
-            - b:
-                - 1. Gong 1564
-                - 2. Cymbals 1565
-                - 3. Tamburin 1566
-            - C. Group 3. Sound via skin membranes 1566
-            - b:
-                - 1. Kettle-drums 1566
-                - 2. Bass-drum 1568
-                - 3. Snare-drum 1568
-                - 4. Pango drums 1569
-                - 5. Tom-tom 1569
-            - D. Group 4. Sound via other materials 1569
-            - b:
-                - 1. Human Voices 1570
-        - PART II Instrumental Techniques 1575
-        - Chapter 7. NOMENCLATURE AND NOTATION 1575
-        - b:
-            - A. Orchestral Forms 1576
-            - B. Orchestral Components (Resources) 1579
-            - C. Orchestral Tools (Instruments) 1581
-        - Chapter 8. INSTRUMENTAL COMBINATION 1586
-        - b:
-            - A. Quantitative and Qualitative Relations 1587
-            - b:
-                - 1. Quantitative relations members belonging to an individual timbral groups 1587
-                - 2. Quantitative relations between the different timbral groups 1590
-                - 3. Quantitative relations of members and groups 1594
-            - B. Correspondence of Intensities 1595
-            - C. Correspondence of Attack-Forms 1598
-            - D. Correspondence of Pitch-Ranges 1600
-            - E. Qualitative and quantitative relations between the instrumental combination and the texture of music 1601
-        - Chapter 9. ACOUSTICAL BASIS OF ORCHESTRATION 1603
+- n: BOOK ONE - THEORY OF RHYTHM -5
+  c:
+  - n: Chapter 1. NOTATION SYSTEM 1
+    c:
+    - n: A. Graphing Music 1
+    - n: B. Forms of Periodicity 3
+  - n: Chapter 2. INTERFERENCES OF PERIODICITIES 4
+    c:
+    - n: A. Binary Synchronization 4
+    - n: B. Grouping 7
+  - n: Chapter 3. THE TECHNIQUES OF GROUPING 12
+  - n: Chapter 4. THE TECHNIQUES OF FRACTIONING 15
+  - n: Chapter 5. COMPOSITION OF GROUPS BY PAIRS 21
+  - n: Chapter 6. UTILIZATION OF THREE OR MORE GENERATORS 24
+    c:
+    - n: A. The Technique of Synchronization 25
+  - n: Chapter 7. RESULTANTS APPLIED TO INSTRUMENTAL FORMS 27
+    c:
+    - n: A. Instrumental Rhythm 27
+    - n: B. Applying the Principles of Interference to Harmony 29
+  - n: Chapter 8. COORDINATION OF TIME STRUCTURES 34
+    c:
+    - n: A. Distribution of a Duration-Group 35
+    - n: B. Synchronization of an Attack-Group 36
+    - n: C. Distribution of a Synchronized Duration-Group 37
+    - n: D. Synchronization of an Instrumental Group 39
+  - n: Chapter 9. HOMOGENEOUS SIMULTANEITY AND CONTINUITY (VARIATIONS) 46
+    c:
+    - n: A. General and Circular Permutations 46
+  - n: Chapter 10. GENERALIZATION OF VARIATION TECHNIQUES 63
+    c:
+    - n: A. Permutations of the Higher Order 63
+  - n: Chapter 11. COMPOSITION OF HOMOGENEOUS RHYTHMIC CONTINUITY 67
+  - n: Chapter 12. DISTRIBUTIVE POWERS 70
+    c:
+    - n: A. Continuity of Harmonic Contrasts 70
+    - n: B. Composition of Rhythmic Counterthemes 74
+  - n: Chapter 13. EVOLUTION OF RHYTHM STYLES (FAMILIES) 84
+    c:
+    - n: A. Swing Music 85
+  - n: Chapter 14. RHYTHMS OF VARIABLE VELOCITIES 90
+    c:
+    - n: A. Acceleration in Uniform Groups 92
+    - n: B. Acceleration in Non-uniform Groups 93
+    - n: C. Rubato 93
+    - n: D. Fermata 94
+- n: BOOK TWO - THEORY OF PITCH-SCALES 97
+  c:
+  - n: Chapter 1. PITCH-SCALES AND EQUAL TEMPERAMENT 101
+  - n: 'Chapter 2. FIRST GROUP OF PITCH-SCALES: Diatonic aid Related Scales 103'
+    c:
+    - n: A. One-unit Scales. Zero Intervals 103
+    - n: B. Two-unit Scales. One Interval 103
+    - n: C. Three-unit Scales. Two Intervals 105
+    - n: D. Four-unit Scales. Three Intervals 109
+    - n: E. Scales of Seven Units 111
+  - n: Chapter 3. EVOLUTION OF PITCH-SCALE STYLES 115
+    c:
+    - n: A. Relating Pitch-Scales through the Identity of Intervals 115
+    - n: B. Relating Pitch-Scales through the Identity of Pitch-Units 116
+    - n: C. Evolving Pitch-Scales through the Method of Summation 119
+    - n: D. Evolving Pitch-Scales through the Selection of Intervals 119
+    - n: E. Historical Development of Scales 121
+  - n: Chapter 4. MELODIC MODULATION AND VARIABLE PITCH AXES 125
+    c:
+    - n: A. Primary Axis 125
+    - n: B. Key-Axis 126
+    - n: C. Four Forms of Axis-Relations 126
+    - n: D. Modulating through Common Units 129
+    - n: E. Modulating through Chromatic Alteration 130
+    - n: F. Modulating through Identical Motifs 131
+  - n: 'Chapter 5. PITCH-SCALES: THE SECOND GROUP: Scales in Expansion 133'
+    c:
+    - n: A. Methods of Tonal Expansion 133
+    - n: B. Translation of Melody into Various Expansions 136
+    - n: C. Variable Pitch Axes (Modulation) 137
+    - n: D. Technique of Modulation in Scales of the Second Group 138
+  - n: Chapter 6. SYMMETRIC DISTRIBUTION OF PITCH-UNITS 144
+  - n: 'Chapter 7. PITCH-SCALES: THE THIRD GROUP: Symmetrical Scales 148'
+    c:
+    - n: A. Table of Symmetric Systems Within 12-root-2 148
+    - n: B. Table of Arithmetical Values 149
+    - n: C. Composition of Melodic Continuity in the Third Group 152
+  - n: 'Chapter 8. PITCH-SCALES: THE FOURTH GROUP: Symmetrical Scales of More Than One Octave in Range 155'
+    c:
+    - n: A. Melodic Continuity 159
+    - n: B. Directional Units 164
+  - n: Chapter 9. MELODY-HARMONY RELATIONSHIP IN SYMMETRIC SYSTEMS 168
+- n: BOOK THREE - VARIATIONS OF MUSIC BY MEANS OF GEOMETRICAL PROJECTION 181
+  c:
+  - n: Chapter 1. GEOMETRICAL INVERSIONS 185
+  - n: Chapter 2. GEOMETRICAL EXPANSIONS 208
+- n: BOOK FOUR - THEORY OF MELODY 223
+  c:
+  - n: Chapter 1. INTRODUCTION 227
+    c:
+    - n: A. Semantics 229
+    - n: B. Semantics of Melody 231
+    - n: C. Intentional Biomechanical Processes 234
+    - n: D. Definition of Melody 235
+  - n: Chapter 2. PRELIMINARY DISCUSSION OF NOTATION 236
+    c:
+    - n: A. History of Musical Notation 236
+    - n: B. Mathematical Notation, General Component 239
+      c:
+      - n: 1. Notation of Time 239
+    - n: C. Special Components 240
+      c:
+      - n: 1. Notation of Pitch 240
+      - n: 2. Notation of Intensity 241
+      - n: 3. Notation of Quality 242
+    - n: D. Relative and Absolute Standards 242
+    - n: E. Geometrical (Graph) Notation 244
+  - n: Chapter 3. THE AXES OF MELODY 246
+    c:
+    - n: A. Primary Axis of Melody 246
+    - n: B. Analysis of Three Examples 247
+    - n: C. Secondary Axes 252
+    - n: D. Examples of Axial Combinations 253
+    - n: E. Selective Continuity of the Axial Combinations 259
+    - n: F. Time Ratios of the Secondary Axes 261
+    - n: G. Pitch Ratios of the Secondary Axes 268
+    - n: H. Correlation of Time and Pitch Ratios of the Secondary Axes 275
+  - n: 'Chapter 4. MELODY: CLIMAX AND RESISTANCE 279'
+    c:
+    - n: A. Forms of Resistance Applied to Melodic Trajectories 284
+    - n: B. Distribution of Climaxes in Melodic Continuity 298
+  - n: Chapter 5. SUPERIMPOSITION OF PITCH AND TIME ON THE AXES 299
+    c:
+    - n: A. Secondary Axes 302
+    - n: B. Forms of Trajectorial Motion 305
+  - n: Chapter 6. COMPOSITION OF MELODIC CONTINUITY 313
+  - n: Chapter 7. ADDITIONAL MELODIC TECHNIQUES 322
+    c:
+    - n: A. Use of Symmetric Scales 322
+    - n: B. Technique of Plotting Modulations 326
+  - n: Chapter 8. USE OF ORGANIC FORMS IN MELODY 329
+- n: BOOK FIVE - SPECIAL THEORY OF HARMONY 353
+  c:
+  - n: Chapter 1. INTRODUCTION 359
+  - n: Chapter 2. THE DIATONIC SYSTEM OF HARMONY 361
+    c:
+    - n: A. Diatonic Progressions (Positive Form) 362
+    - n: B. Historical Development of Cycle Styles 368
+    - n: C. Transformations of S(5) 376
+    - n: D. Voice-Leading 378
+    - n: E. How Cycles and Transformations Are Related 382
+    - n: F. The Negative Form 386
+  - n: Chapter 3. THE SYMMETRIC SYSTEM OF HARMONY 388
+    c:
+    - n: A. Structures of S(5) 388
+    - n: B. Symmetric Progressions. Symmetric Zero Cycle (Co) 391
+  - n: Chapter 4. THE DIATONIC-SYMMETRIC SYSTEM OF HARMONY (TYPE II) 393
+  - n: Chapter 5. THE SYMMETRIC SYSTEM OF HARMONY (TYPE III) 396
+    c:
+    - n: A. Two Tonics 397
+    - n: B. Three Tonics 399
+    - n: C. Four Tonics 399
+    - n: D. Six Tonics 400
+    - n: E. Twelve Tonics 400
+  - n: Chapter 6. VARIABLE DOUBLINGS IN HARMONY 401
+  - n: Chapter 7. INVERSIONS OF THE S(5) CHORD 406
+    c:
+    - n: A. Doublings of S(6) 410
+    - n: B. Continuity of S(5) and S(6) 412
+  - n: Chapter 8. GROUPS WITH PASSING CHORDS 414
+    c:
+    - n: A. Passing Sixth Chords 415
+    - n: B. Continuity of G6 416
+    - n: C. Generalization of G6 417
+    - n: D. Continuity of the Generalized G6 418
+    - n: E. Generalization of the Passing Third 418
+    - n: F. Applications of G6 to Diatonic-Symmetric (Type II) and Symmetric (Type III) Progressions 419
+      c:
+      - n: 1. Progressions of Type II 420
+      - n: 2. Progressions of Type IT 1 421
+    - n: 'G. Passing Fourth-sixth Chords: S''(-f) 427'
+    - n: H. Cycles and Goups Mixed 434
+  - n: Chapter 9. THE SEVENTH CHORD 436
+    c:
+    - n: A. Diatonic System 436
+    - n: B. The Resolution of S(7) 439
+    - n: C. With Negative Cycles 443
+    - n: D. S(7) in the Symmetric Zero Cycle (C0) 446
+    - n: E. Hybrid Five-Part Harmony 451
+  - n: Chapter 10. THE NINTH CHORD 460
+    c:
+    - n: A. S(9) in the Diatonic System 460
+    - n: B. S(9) in the Symmetric System 464
+  - n: Chapter 11. THE ELEVENTH CHORD 469
+    c:
+    - n: A. S(ll) in the Diatonic System 469
+    - n: B. Preparation of S(ll) 470
+    - n: C. S(ll) in the Symmetric System 473
+    - n: D. In Hybrid Four-Part Harmony 478
+  - n: Chapter 12. GENERALIZATION OF SYMMETRIC PROGRESSIONS 489
+    c:
+    - n: A. Generalized Symmetric Progressions as Applied to Modulation Problems 492
+  - n: Chapter 13. THE CHROMATIC SYSTEM OF HARMONY 495
+    c:
+    - n: A. Operations from S3 (5) and S4 (5) bases 501
+    - n: B. Chromatic Alteration of the Seventh 503
+    - n: C. Parallel Double Chromatics 503
+    - n: D. Triple and Quadruple Parallel Chromatics 506
+    - n: E. Enharmonic Treatment of the Chromatic System 508
+    - n: F. Overlapping Chromatic Groups 511
+    - n: G. Coinciding Chromatic Groups 514
+  - n: Chapter 14. MODULATIONS IN THE CHROMATIC SYSTEM 518
+    c:
+    - n: A. Indirect Modulations 524
+  - n: Chapter 15. THE PASSING SEVENTH GENERALIZED 531
+    c:
+    - n: A. Generalized Passing Seventh in Progressions of Type III 534
+    - n: B. Generalization of Passing Chromatic Tones 537
+    - n: C. Altered Chords 542
+  - n: Chapter 16. AUTOMATIC CHROMATIC CONTINUITIES 544
+    c:
+    - n: A. In Four Part Harmony 544
+  - n: Chapter 17. HYBRID HARMONIC CONTINUITIES 552
+  - n: Chapter 18. LINKING HARMONIC CONTINUITIES 554
+  - n: Chapter 19. A DISCUSSION OF PEDAL POINTS 559
+    c:
+    - n: A. Classical Pedal Point 561
+    - n: B. Diatonic Pedal Point 563
+    - n: C. Chromatic (Modulating) Pedal Point 565
+    - n: D. Symmetric Pedal Point 566
+  - n: Chapter 20. MELODIC FIGURATION; PRELIMINARY SURVEY OF THE TECHNIQUES 569
+    c:
+    - n: A. Four Types of Melodic Figuration 569
+  - n: Chapter 21. SUSPENSIONS, PASSING TONES AND ANTICIPATIONS 572
+    c:
+    - n: A. Types of Suspensions 573
+    - n: B. Passing Tones 575
+    - n: C. Anticipations 579
+  - n: Chapter 22. AUXILIARY TONES 584
+  - n: Chapter 23. NEUTRAL AND THEMATIC MELODIC FIGURATION 597
+  - n: Chapter 24. CONTRAPUNTAL VARIATIONS OF HARMONY 606
+- n: BOOK SIX - THE CORRELATION OF HARMONY AND MELODY 615
+  c:
+  - n: Chapter 1. THE MELODIZATION OF HARMONY 619
+    c:
+    - n: A. Diatonic Melodization 622
+    - n: B. More than one Attack in Melody per H 625
+  - n: Chapter 2. COMPOSING MELODIC ATTACK-GROUPS 642
+    c:
+    - n: A. How the Durations for Attack-Groups of Melody Are Composed 646
+    - n: B. Direct Composition of Durations Correlating Melody and Harmony 650
+    - n: C. Chromatic Variation of Diatonic Melodization 652
+    - n: 'D. Symmetric Melodization: The 2 Families 654'
+    - n: E. Chromatic Variation of a Symmetric Melodization 661
+    - n: F. Chromatic Melodization of Harmony 662
+    - n: G. Statistical Melodization of Chromatic Progressions 663
+  - n: Chapter 3. THE HARMONIZATION OF MELODY 666
+    c:
+    - n: A. Diatonic Harmonization of a Diatonic Melody 666
+    - n: B. Chromatic Harmonization of a Diatonic Melody 670
+    - n: C. Symmetric Harmonization of a Diatonic Melody 671
+    - n: D. Symmetric Harmonization of a Symmetric Melody 675
+    - n: E. Chromatic Harmonization of a Symmetric Melody 681
+    - n: F. Diatonic Harmonization of a Symmetric Melody 684
+    - n: G. Chromatic Harmonization of a Chromatic Melody 685
+    - n: H. Diatonic Harmonization of a Chromatic Melody 687
+    - n: I. Symmetric Harmonization of a Chromatic Melody 688
+- n: BOOK SEVEN - THEORY OF COUNTERPOINT 691
+  c:
+  - n: Chapter 1. THE THEORY OF HARMONIC INTERVALS 697
+    c:
+    - n: A. Some Acoustical Fallacies 697
+    - n: B. Classification of Harmonic Intervals Within the Equal Temperament of Twelve 700
+    - n: C. Resolution of Harmonic Intervals 702
+    - n: D. Resolution of Chromatic Intervals 705
+  - n: Chapter 2. THE CORRELATION OF TWO MELODIES 708
+    c:
+    - n: A. Two-Part Counterpoint. 708
+    - n: B. CP/CF =a 709
+    - n: C. Forms of Harmonic Correlation 709
+    - n: D. CP/CF = 2a 711
+    - n: E. CP/CF = 3a 714
+    - n: F. CP/CF = 4a 716
+    - n: G. CP/CF = 5a 717
+    - n: H. CP/CF = 6a 719
+    - n: I. CP/CF = 7a 722
+    - n: J. CP/CF = 8a 723
+  - n: Chapter 3. ATTACK-GROUPS IN TWO-PART COUNTERPOINT 726
+    c:
+    - n: A. More than One Attack of CF to CP 728
+    - n: B. Direct Composition of Durations in Two-Part Counterpoint 733
+    - n: C. Chromatization of Diatonic Counterpoint 739
+  - n: Chapter 4. THE COMPOSITION OF CONTRAPUNTAL CONTINUITY 742
+  - n: Chapter 5. CORRELATION OF MELODIC FORMS IN TWO-PART COUNTERPOINT - 753
+    c:
+    - n: A. Use of Monomial Axes 753
+    - n: B. Binomial Axes Groups 754
+    - n: C. Trinomial Axial Combinations 756
+    - n: D. Polynomial Axial Combinations 757
+    - n: K. Developing Axial Relations Through Attack-Groups 758
+    - n: F. Interference of Axis-Groups 760
+    - n: G. Correlation of Pitch-Time Ratios of the Axes 762
+    - n: H. Composition of a Counterpart to a Given Melody by Means of Axial Correlation 770
+  - n: Chapter 6. TWO-PART COUNTERPOINT WITH SYMMETRIC SCALES 772
+  - n: Chapter 7. CANONS AND CANONIC IMITATIONS 777
+    c:
+    - n: A. Temporal Structure of Continuous Imitation 778
+      c:
+      - n: 1. Temporal structures composed from the parts of resultants 779
+      - n: 2. Temporal structures composed from complete resultants 779
+      - n: 3. Temporal structures evolved by means of permutations 780
+      - n: 4. Temporal structures composed from synchronized involution-groups 781
+      - n: 5. Temporal structures composed from acceleration-groups and their inversions 782
+    - n: B. Canons in All Four Types of Harmonic Correlation 783
+    - n: C. Composition of Canonic Continuity by means of Geometrical Inversions 787
+  - n: Chapter 8. THE ART OF THE FUGUE 790
+    c:
+    - n: A. The Form of the Fugue 790
+    - n: B. Forms of Imitation Evolved Through Four Quadrants 792
+    - n: C. Steps in the Composition of a Fugue 794
+    - n: D. Composition of the Theme 794
+    - n: E. Preparation of the Exposition 802
+    - n: F. Composition of the Exposition 806
+    - n: G. Preparation of the Interludes 807
+    - n: H. Non-Modulating Interludes 808
+    - n: I. Modulating Interludes 809
+    - n: J. Assembly of the Fugue 813
+  - n: Chapter 9. TWO-PART CONTRAPUNTAL MELODIZATION OF A GIVEN HARMONIC CONTINUUM 823
+    c:
+    - n: A. Melodization of Diatonic Harmony by means of Two-Part Diatonic Counterpoint 824
+    - n: B. Chromatization of Two-Part Diatonip Melodization 828
+    - n: C. Melodization of Symmetric Harmony 829
+    - n: D. Chromatization of a Symmetric Two-Part Melodization 832
+    - n: E. Melodization of Chromatic Harmony by means of Two-Part Counterpoint 833
+  - n: Chapter 10. ATTACK-GROUPS FOR TWO-PART MELODIZATION 836
+    c:
+    - n: A. Composition of Durations 838
+    - n: B. Direct Composition of Durations 841
+    - n: C. Composition of Continuity 843
+  - n: Chapter 11. HARMONIZATION OF TWO-PART COUNTERPOINT 856
+    c:
+    - n: A. Diatonic Harmonization 856
+    - n: B. Chromatization of Harmony accompanying Two-Part Diatonic Counterpoint (Types I and II) 862
+    - n: C. Diatonic Harmonization of Chromatic Counterpoint whose origin is Diatonic (Types I and II) 863
+    - n: D. Symmetric Harmonization of Diatonic Two-Part Counterpoint (Types I, II, III, IV) 865
+    - n: E. Symmetric Harmonization of Chromatic Two-Part Counterpoint 869
+    - n: F. Symmetric Harmonization of Symmetric Two-Part Counterpoint 872
+  - n: Chapter 12. MELODIC, HARMONIC AND CONTRAPUNTAL OSTINATO 874
+    c:
+    - n: A. Melodic Ostinato (Basso) 874
+    - n: B. Harmonic Ostinato 875
+    - n: C. Contrapuntal Ostinato, 876
+- n: BOOK EIGHT - INSTRUMENTAL FORMS 879
+  c:
+  - n: Chapter 1. MULTIPLICATION OF ATTACKS 883
+    c:
+    - n: A. Nomenclature 883
+    - n: B. Sources of Instrumental Forms 884
+    - n: C. Definition of Instrumental Forms 884
+  - n: Chapter 2. STRATA OF ONE PART 886
+  - n: Chapter 3. STRATA OF TWO PARTS 890
+    c:
+    - n: A. General Classification of I (S == 2p) 890
+    - n: B. Instrumental Forms of S--2p 901
+  - n: Chapter 4. STRATA OF THREE PARTS 910
+    c:
+    - n: A. General Classification of I (S=3p) 910
+    - n: B. Development of Attack-Groups by Means of Coefficients of Recurrence 912
+    - n: C. Instrumental Forms of S~3p 931
+  - n: Chapter 5. STRATA OF FOUR PARTS 948
+    c:
+    - n: A. General Classification of I (S=4p) 948
+    - n: B. Development of Attack-Groups by Means of Coefficients of Recurrence 951
+    - n: C. Instrumental Forms of S = 4p 988
+  - n: Chapter 6. COMPOSITION OF INSTRUMENTAL STRATA 1003
+    c:
+    - n: A. Identical Octave Positions 1003
+    - n: B. Acoustical Conditions for Setting the Bass 1011
+  - n: Chapter 7. SOME INSTRUMENTAL FORMS OF ACCOMPANIED MELODY 1018
+    c:
+    - n: A. Melody with Harmonic Accompaniment 1018
+    - n: B. Instrumental Forms of Duet with Harmonic Accompaniment 1023
+  - n: Chapter 8. THE USE OF DIRECTIONAL UNITS IN INSTRUMENTAL FORMS OF HARMONY 1027
+  - n: Chapter 9. INSTRUMENTAL FORMS OF TWO-PART COUNTERPOINT 1032
+  - n: Chapter 10. INSTRUMENTAL FORMS FOR PIANO COMPOSITION 1043
+    c:
+    - n: A. Position of Hands with Respect to the Keyboard 1048
+- n: 'BOOK NINE - GENERAL THEORY OF HARMONY: STRATA HARMONY 1057'
+  c:
+  - n: Introduction to Strata Harmony 1063
+  - n: Chapter 1. ONE-PART HARMONY 1065
+    c:
+    - n: A. One Stratum of One-Part Harmony 1065
+  - n: Chapter 2. TWO-PART HARMONY 1066
+    c:
+    - n: A. One Stratum of Two-Part Harmony 1066
+    - n: B. One Two-Part Stratum 1074
+    - n: C. Two Hybrid Strata 1076
+    - n: D. Table of Hybrid Three-Part Structures 1076
+    - n: E. Examples of Hybrid Three-Part Harmony 1080
+    - n: F. Two Strata of Two-Part Harmonies 1083
+    - n: G. Examples of Progressions in Two Strata 1085
+    - n: H. Three Hybrid Strata 1087
+    - n: I. Three, Four, and More Strata of Two-Part Harmonies 1089
+    - n: J. Diatonic and Symmetric Limit? and the Compound Sigmae of Two-Part Strata 1096
+    - n: K. Compound Sigmae 1097
+  - n: Chapter 3. THREE-PART HARMONY 1103
+    c:
+    - n: A. One Stratum of Three-Part Harmony 1103
+    - n: B. Transformations of S-3p 1106
+    - n: C. Two Strata of Three-Part Harmonies. 1110
+    - n: D. Three Strata of Three-Part Harmonies 1114
+    - n: E. Four and More Strata of Three-Part Harmonies 1117
+    - n: F. The Limits of Three-Part Harmonies 1120
+      c:
+      - n: 1. Diatonic Limit 1120
+      - n: 2. Symmetric Limit 1121
+      - n: 3. Compound Symmetric Limit 1122
+  - n: Chapter 4. FOUR-PART HARMONY 1124
+    c:
+    - n: A. One Stratum of Four-Part Harmony 1124
+    - n: B. Transformations of S-4p 1127
+    - n: C. Examples of Progressions of S-4p 1132
+  - n: Chapter 5. THE HARMONY OF FOURTHS 1134
+  - n: Chapter 6. ADDITIONAL DATA ON FOUR-PART HARMONY 1139
+    c:
+    - n: A. Special Cases of Four-Part Harmonies in Two Strata. 1139
+      c:
+      - n: 1. Reciprocating Strata 1139
+      - n: 2. Hybrid Symmetric Strata 1141
+    - n: B. Generalization of the E>2S; S4p 1145
+    - n: C. Three Strata of Four-Part Harmonies 1148
+    - n: D. Four and More Strata of Four-IVut Harmonies 1150
+    - n: E. The Limits of Four-Part Harmonies 1151
+      c:
+      - n: 1. Diatonic Limit 1151
+      - n: 2. Symmetric Limit 1152
+      - n: 3. Compound Symmetric Limit 1153
+  - n: Chapter 7. VARIABLE NUMBER OF PARTS IN THE DIFFERENT STRATA OF A SIGMA 1155
+    c:
+    - n: A. Construction of Sigmae Belonging to one Family 1158
+      c:
+      - n: 1. 2-S 1158
+      - n: 2. S-4S 1160
+    - n: B. Progressions with Variable Sigma 1163
+    - n: C. Distribution of a Given Harmonic Continuity Through Strata 1164
+  - n: Chapter 8. GENERAL THEORY OF DIRECTIONAL UNITS 1169
+    c:
+    - n: A. Directional Units of Sp 1169
+    - n: B. Directional Units of S2p 1171
+    - n: C. Directional Units of S3p 1177
+    - n: D. Directional Units of S4p 1183
+    - n: E. Strata Composition of Assemblages Containing Directional Units 1187
+    - n: F. Sequent Groups of Directional Units 1192
+  - n: APPLICATIONS OF GENERAL HARMONY 1194
+  - n: Chapter 9. COMPOSITION OF MELODIC CONTINUITY FROM STRATA 1194
+    c:
+    - n: A. Melody from one individual part of a stratum 1195
+    - n: B. Melody from 2p, 3p, 4p of an S 1195
+    - n: C. Melody from one S 1196
+    - n: D. Melody from 2S, 3S 1196
+    - n: E. Generalization of the Method 1197
+    - n: F. Mixed forms 1197
+    - n: G. Distribution of Auxiliary Units through p, S and S 1198
+    - n: H. Variation of original melodic continuity by means of auxiliary tones 1198
+  - n: Chapter 10. COMPOSITION OF HARMONIC CONTINUITY FROM STRATA 1200
+    c:
+    - n: A. Harmony from one stratum 1200
+    - n: B. Harmony from 2S, 3S 1201
+    - n: C. Harmony from M 1201
+    - n: D. Patterns of Distribution 1201
+    - n: E. Application of Auxiliary Units 1202
+    - n: F. Variation through Auxiliary Unit  1202
+  - n: Chapter 11. MELODY WITH HARMONIC ACCOMPANIMENT 1204
+  - n: Chapter 12. CORRELATED MELODIES 1209
+  - n: Chapter 13. COMPOSITION OF CANONS FROM STRATA HARMONY 1216
+    c:
+    - n: A. Two-Part Continuous Imitation 1216
+    - n: B. Three-Part Continuous Imitation 1218
+    - n: C. Four-Part Continuous Imitation 1220
+  - n: Chapter 14. CORRELATED MELODIES WITH HARMONIC ACCOMPANIMENT 1224
+  - n: Chapter IS. COMPOSITION OF DENSITY IN ITS APPLICATIONS TO STRATA 1226
+    c:
+    - n: A. Technical Premise 1227
+    - n: B. Composition of Density- groups 1228
+    - n: C. Permutation of sequent Density-groups 1232
+    - n: D. Phasic Rotation of A and A~^ 1234
+    - n: "E. Practical Applications of IT* to 2\xE2\u20AC\u0153^ 1242"
+- n: BOOK TEN - EVOLUTION OF PITCH-FAMILIES (STYLE) 1249
+  c:
+  - n: Introduction 1253
+  - n: Chapter 1. PITCH-SCALES AS A SOURCE OF MELODY 1255
+  - n: Chapter 2. HARMONY 1258
+    c:
+    - n: A. Diatonic Harmony 1258
+    - n: B. Diatonic-Symmetric Harmony 1261
+    - n: C. Symmetric Harmony 1262
+    - n: D. Strata (General) Harmony 1263
+    - n: E. Melodic Figuration 1264
+    - n: F. Transposition of Symmetric Roots of Strata 1265
+    - n: G. Compound Sigma 1266
+  - n: Chapter 3. MELODIZATION OF HARMONY 1268
+    c:
+    - n: A. Diatonic Melodization 1268
+    - n: B. Symmetric Melodization 1270
+    - n: C. Conclusion 1271
+- n: BOOK ELEVEN - THEORY OF COMPOSITION 1273
+  c:
+  - n: Introduction 1277
+  - n: Part I Composition of Thematic Units 1279
+  - n: Chapter 1. COMPONENTS OF THEMATIC UNITS 1279
+  - n: Chapter 2. TEMPORAL RHYTHM AS MAJOR COMPONENT 1281
+  - n: Chapter 3. PITCH-SCALE AS MAJOR COMPONENT 1286
+  - n: Chapter 4. MELODY AS MAJOR COMPONENT 1291
+  - n: Chapter 5. HARMONY AS MAJOR COMPONENT 1296
+  - n: Chapter 6. MELODIZATION AS MAJOR COMPONENT 1305
+  - n: Chapter 7. COUNTERPOINT AS MAJOR COMPONENT 1311
+  - n: Chapter 8. DENSITY AS MAJOR COMPONENT 1314
+  - n: Chapter 9. INSTRUMENTAL RESOURCES AS MAJOR COMPONENT 1322
+    c:
+    - n: A. Dynamics 1324
+    - n: B. Tone-Quality 1326
+    - n: C. Forms of Attack 1327
+  - n: Part II Composition of Thematic Continuity 1330
+  - n: Chapter 10. MUSICAL FORM 1330
+  - n: Chapter 11. FORMS OF THEMATIC SEQUENCE 1333
+  - n: Chapter 12. TEMPORAL COORDINATION OF THEMATIC SEQUENCE 1335
+    c:
+    - n: A. Using the Resultants of Interference 1336
+    - n: B. Permutation-Groups 1337
+    - n: C. Involution-Groups 1338
+    - n: D. Acceleration-Groups 1341
+  - n: Chapter 13. INTEGRATION OF THEMATIC CONTINUITY 1342
+    c:
+    - n: A. Transformation of Thematic Units into Thematic Groups 1342
+    - n: B. Transformation of Subjects into their Modified Variants 1343
+      c:
+      - n: 1. Temporal Modification of a Subject 1343
+      - n: 2. Intonational Modification of a Subject 1347
+    - n: C. Axial Synthesis of Thematic Continuity 1349
+  - n: Chapter 14. PLANNING A COMPOSITION 1351
+    c:
+    - n: A. Clock Time Duration of a Composition 1353
+    - n: B. Temporal Saturation of a Composition 1354
+    - n: C. Selection of the Number of Subjects and Thematic Groups 1355
+    - n: D. Selection of a Thematic Sequence 1354
+    - n: E. Temporal Distribution of Thematic Groups 1358
+    - n: F. Realization of Continuity in Terms of t and t' 1363
+    - n: G. Composition of Thematic Units 1365
+    - n: H. Composition of Thematic Groups 1367
+    - n: I. Composition of Key-Axes 1367
+    - n: J. Instrumental Composition 1369
+  - n: Chapter 15. MONOTHEMATIC COMPOSITION 1370
+    c:
+    - n: A. "Song" from "The First Airphonic Suite" 1370
+    - n: B. "Mouvement Electrique et Pathetique" 1373
+    - n: C. "Funeral March" for Piano 1379
+    - n: D. "Study in Rhythm I" for Piano 1383
+    - n: E. "Study in Rhythm II" for Piano 1388
+  - n: Chapter 16. POLYTHEMATIC COMPOSITION 1401
+  - n: Part III Semantic (Connotative) Composition 1410
+  - n: Chapter 17. SEMANTIC BASIS OF MUSIC 1410
+    c:
+    - n: A. Evolution of Sonic Symbols 1410
+    - n: B. Configurational Orientation and the Psychological Dial 1411
+    - n: C. Anticipation-Fulfillment Pattern 1415
+    - n: D. Translating Response Patterns into Geometrical Configurations 1418
+    - n: E. Complex Forms of Stimulus-Response Configurations 1421
+    - n: F. Spatio-Temporal Associations 1426
+  - n: Chapter 18. COMPOSITION OF SONIC SYMBOLS 1432
+    c:
+    - n: A. Normal 0. Balance and Repose 1433
+    - n: B. Upper Quadrant of the Negative Zone 0. Dissatisfaction, Depression and Despair 1436
+    - n: C. Upper Quadrant of the Positive Zone O. Satisfaction, Strength, and Success 1443
+    - n: 'D. Lower Quadrant of Both Zones 0. Association by Contrast: The Humorous and Fantastic 1453'
+  - n: Chapter 19. COMPOSITION OF SEMANTIC CONTINUITY 1461
+    c:
+    - n: A. Modulation of Sonic Symbols 1462
+      c:
+      - n: 1. Temporal Modulation 1462
+      - n: 2. Intonational Modulation 1463
+      - n: 3. Configurational Modulation 1464
+    - n: B. Coordination of Sonic Symbols 1471
+    - n: C. Classification of Stimulus-Response Patterns 1473
+- n: BOOK TWELVE - THEORY OF ORCHESTRATION 1479
+  c:
+  - n: Part I Instruments 1485
+  - n: Introduction 1485
+  - n: Chapter 1. STRING-BOW INSTRUMENTS 1489
+    c:
+    - n: A. Violin 1490
+      c:
+      - n: 1. Tuning 1490
+      - n: 2. Playing 1490
+      - n: 3. Range 1501
+      - n: 4. Quality 1502
+    - n: B. Viola 1505
+    - n: C. Violoncello 1506
+    - n: D. Double-Bass (Contrabass) 1508
+  - n: Chapter 2. WOODWIND INSTRUMENTS 1511
+    c:
+    - n: A. The Flute Family 1511
+      c:
+      - n: 1. Flauto Grande 1511
+      - n: 2. Flauto Piccolo 1513
+      - n: 3. Flauto Contralto 1513
+    - n: B. The Clarinet (Single-Reed) Family 1514
+      c:
+      - n: 1. Clarinet in Bb and A 1514
+      - n: 2. Clarinet Piccolo in D and Eb 1516
+      - n: 3. Clarinet Contralto and Bassethorn 1516
+      - n: 4. Clarinet Bass in Bb and A 1516
+    - n: C. The Saxophone (Single-Reed) Family 1517
+    - n: D. The Oboe (Double-Reed) Family 1518
+      c:
+      - n: 1. Oboe 1518
+      - n: "2. Oboe d\xE2\u20AC\u2122Amore 1520"
+      - n: 3. Corno Inglese (English Horn) 1520
+      - n: 4. Heckelphone (Baritone Oboe) 1520
+    - n: E. The Bassoon (Double-Reed) Family 1521
+      c:
+      - n: 1. Fagotto (Bassoon) 1521
+      - n: 2. Fagottino 1522
+      - n: 3. Contrafagotto. 1522
+  - n: Chapter 3. BRASS (WIND) INSTRUMENTS 1523
+    c:
+    - n: A. Corno (French Horn) 1523
+    - n: B. Tromba (Trumpet) 1526
+      c:
+      - n: 1. Soprano Trumpet in Bb and A 1526
+      - n: 2. Comet in Bb and A 1528
+      - n: 3. Piccolo Trumpet in D and Eb 1528
+      - n: 4. Alto Trumpet 1528
+      - n: 5. Ban Trumpet 1529
+    - n: C. Trombone 1529
+    - n: D. Tuba 1534
+  - n: Chapter 4. SPECIAL INSTRUMENTS 1536
+    c:
+    - n: A. Harp 1536
+    - n: B. Organ 1541
+  - n: Chapter 5. ELECTRONIC INSTRUMENTS 1544
+    c:
+    - n: A. First Sub-group. Varying Electro-Magnetic Field 1544
+      c:
+      - n: 1. Space-controlled Theremin 1544
+      - n: 2. Fingerboard Theremin 1546
+      - n: 3. Keyboard Theremin 1547
+    - n: B. Second Sub-group. Conventional Sources of Sound 1547
+      c:
+      - n: 1. Electrified Piano 1548
+      - n: 2. Solovox 1549
+      - n: 3. The Hammond Organ 1549
+      - n: 4. The Novachord 1553
+  - n: Chapter 6. PERCUSSIVE INSTRUMENTS 1555
+    c:
+    - n: A. Group 1. Sound via string or bar 1555
+      c:
+      - n: 1. Piano. 1555
+      - n: 2. Celesta 1558
+      - n: 3. Glockenspiel 1559
+      - n: 4. Chimes 1560
+      - n: 5. Church Bells 1560
+      - n: 6. Vibraphone 1560
+      - n: 7. Marimba and Xylophone 1561
+      - n: 8. Triangle 1562
+      - n: 9. Wood-Blocks 1563
+      - n: 10. Castanets 1563
+      - n: 11. Clavis 1564
+    - n: B. Group 2. Sound via metal disc 1564
+      c:
+      - n: 1. Gong 1564
+      - n: 2. Cymbals 1565
+      - n: 3. Tamburin 1566
+    - n: C. Group 3. Sound via skin membranes 1566
+      c:
+      - n: 1. Kettle-drums 1566
+      - n: 2. Bass-drum 1568
+      - n: 3. Snare-drum 1568
+      - n: 4. Pango drums 1569
+      - n: 5. Tom-tom 1569
+    - n: D. Group 4. Sound via other materials 1569
+      c:
+      - n: 1. Human Voices 1570
+  - n: PART II Instrumental Techniques 1575
+  - n: Chapter 7. NOMENCLATURE AND NOTATION 1575
+    c:
+    - n: A. Orchestral Forms 1576
+    - n: B. Orchestral Components (Resources) 1579
+    - n: C. Orchestral Tools (Instruments) 1581
+  - n: Chapter 8. INSTRUMENTAL COMBINATION 1586
+    c:
+    - n: A. Quantitative and Qualitative Relations 1587
+      c:
+      - n: 1. Quantitative relations members belonging to an individual timbral groups 1587
+      - n: 2. Quantitative relations between the different timbral groups 1590
+      - n: 3. Quantitative relations of members and groups 1594
+    - n: B. Correspondence of Intensities 1595
+    - n: C. Correspondence of Attack-Forms 1598
+    - n: D. Correspondence of Pitch-Ranges 1600
+    - n: E. Qualitative and quantitative relations between the instrumental combination and the texture of music 1601
+  - n: Chapter 9. ACOUSTICAL BASIS OF ORCHESTRATION 1603

@@ -39,33 +39,34 @@ def insert_missing(insert_alt_page, goodpart):
     prng = PageRange(slice(goodbgn, goodend))
     WRTR.append(RDR2, pages=prng)
 
-def bookmark(spec, node=None, level=0):
-    cur = None
-    for item in spec['b']:
-        if isinstance(item, dict):
-            if cur is not None:
-                bookmark(item, cur, level+1)
-            else:
-                bookmark(item, node, level+1)
-        else:
-            a = item.split()
-            l = len(a)
-            # WRTR.add_outline_item_dict
-            desc = " ".join(a[0:l-1])
-            try:
-                page = int(a[l-1])
-            except ValueError as exc:
-                print(exc)
-                print("******* item is ", item)
+NAME = "n"
+CONTENT = "c"
+def bookmark(spec:dict, node=None, level=-1):
+    cur = node
+    # skip the root node
+    if level >= 0:
+        item = spec[NAME]
+        a = item.split()
+        l = len(a)
+        desc = " ".join(a[0:l-1])
+        try:
+            page = int(a[l-1])
+        except ValueError as exc:
+            print(exc)
+            print("******* item is ", item)
 
-            if YAML_CHECK or OUTLINE:
-                if OUTLINE:
-                    fmt = "{0}{1}"
-                else:
-                    fmt = "{0}{1}......{2} => {3}"
-                print(fmt.format(" "*level*2, desc, page, toc2pdf(page)))
+        if YAML_CHECK or OUTLINE:
+            if OUTLINE:
+                fmt = "{0}{1}"
             else:
-                cur = WRTR.add_outline_item(desc, toc2pdf(page)-1, node)
+                fmt = "{0}{1}......{2} => {3}"
+            print(fmt.format(" "*level*2, desc, page, toc2pdf(page)))
+        else:
+            cur = WRTR.add_outline_item(desc, toc2pdf(page)-1, node)
+       
+    if CONTENT in spec:
+        for i in spec[CONTENT]:
+            bookmark(i, cur, level+1)
 
 def handle_args():
     parser = argparse.ArgumentParser(
@@ -87,16 +88,14 @@ def handle_args():
 if __name__ == '__main__':
 
     handle_args()
-
-    BOOKMARK=None
     with open("bookindex.yaml") as stream:
         try:
-            BOOKMARK=yaml.safe_load(stream)
+            BOOKMARK={NAME:'root', CONTENT:yaml.safe_load(stream)}
         except yaml.YAMLError as exc:
             print(exc)
             exit(1)
 
-    if YAML_CHECK:
+    if YAML_CHECK or OUTLINE:
         bookmark(BOOKMARK)
 
     else:
@@ -129,3 +128,5 @@ if __name__ == '__main__':
             WRTR.write(fp)
 
         print(f'Pdf file "{fn}" has been written')
+    
+    exit(0)
