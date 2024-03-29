@@ -1,8 +1,14 @@
+import argparse
 from pprint import pprint
 from pypdf import PdfWriter, PdfReader, PageRange
 import yaml
 
 YAML_CHECK = False
+OUTLINE = False
+
+def set_opt(yc, ol):
+    global YAML_CHECK, OUTLINE
+    YAML_CHECK, OUTLINE = yc, ol
 
 def toc2pdf(pgtoc):
     if pgtoc < 879:
@@ -52,45 +58,74 @@ def bookmark(spec, node=None, level=0):
                 print(exc)
                 print("******* item is ", item)
 
-            if YAML_CHECK:
-                print("{}{}......{} => {}".format(" "*level*2, desc, page, toc2pdf(page)))
+            if YAML_CHECK or OUTLINE:
+                if OUTLINE:
+                    fmt = "{0}{1}"
+                else:
+                    fmt = "{0}{1}......{2} => {3}"
+                print(fmt.format(" "*level*2, desc, page, toc2pdf(page)))
             else:
                 cur = WRTR.add_outline_item(desc, toc2pdf(page)-1, node)
 
-BOOKMARK=None
-with open("bookindex.yaml") as stream:
-    try:
-        BOOKMARK=yaml.safe_load(stream)
-    except yaml.YAMLError as exc:
-        print(exc)
+def handle_args():
+    parser = argparse.ArgumentParser(
+        prog="process_pdfs",
+        description='Processes Schillinger pdfs',
+        epilog=f'(c) Khan Kibria')
 
-if YAML_CHECK:
-    bookmark(BOOKMARK)
+    action = parser.add_mutually_exclusive_group(required=True)
+    action.add_argument('-y', '--yaml-check', default=False,
+                    action='store_true')
+    action.add_argument('-l', '--outline', default=False,
+                    action='store_true')
+    action.add_argument('-p', '--pdf', default=False,
+                    action='store_true')
+    
+    args = parser.parse_args()
+    set_opt(args.yaml_check, args.outline)
 
-else:
-    RDR1 = PdfReader("sch-vol1.pdf")
-    RDR2 = PdfReader("sch-vol2.pdf")
-    RDR_ALT = PdfReader("sch-alt.pdf")
-    WRTR = PdfWriter()
+if __name__ == '__main__':
 
-    pr1 = PageRange(slice(8, 914))
-    WRTR.append(RDR1, pages=pr1)
-    pr2_1 = PageRange(slice(5, 82))
-    WRTR.append(RDR2, pages=pr2_1)
+    handle_args()
 
-    pg_ref = RDR2.pages[82]
-    W_REF = pg_ref.mediabox.width
-    H_REF = pg_ref.mediabox.height
+    BOOKMARK=None
+    with open("bookindex.yaml") as stream:
+        try:
+            BOOKMARK=yaml.safe_load(stream)
+        except yaml.YAMLError as exc:
+            print(exc)
+            exit(1)
 
-    # page 952-953
-    insert_missing(508, (82, 92))
-    # page 964-965
-    insert_missing(514, (92, 122))
-    # page 996-997
-    insert_missing(530, (122, 765))
+    if YAML_CHECK:
+        bookmark(BOOKMARK)
 
-    OL_ROOT = WRTR.get_outline_root()
-    bookmark(BOOKMARK, OL_ROOT)
+    else:
+        RDR1 = PdfReader("sch-vol1.pdf")
+        RDR2 = PdfReader("sch-vol2.pdf")
+        RDR_ALT = PdfReader("sch-alt.pdf")
+        WRTR = PdfWriter()
 
-    with open("schillinger-system.pdf", "wb") as fp:
-        WRTR.write(fp)
+        pr1 = PageRange(slice(8, 914))
+        WRTR.append(RDR1, pages=pr1)
+        pr2_1 = PageRange(slice(5, 82))
+        WRTR.append(RDR2, pages=pr2_1)
+
+        pg_ref = RDR2.pages[82]
+        W_REF = pg_ref.mediabox.width
+        H_REF = pg_ref.mediabox.height
+
+        # page 952-953
+        insert_missing(508, (82, 92))
+        # page 964-965
+        insert_missing(514, (92, 122))
+        # page 996-997
+        insert_missing(530, (122, 765))
+
+        OL_ROOT = WRTR.get_outline_root()
+        bookmark(BOOKMARK, OL_ROOT)
+        
+        fn = "schillinger-system.pdf"
+        with open(fn, "wb") as fp:
+            WRTR.write(fp)
+
+        print(f'Pdf file "{fn}" has been written')
