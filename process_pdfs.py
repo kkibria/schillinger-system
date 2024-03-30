@@ -56,6 +56,7 @@ def bookmark(spec:dict, node=None, level=-1):
         except ValueError as exc:
             print(exc)
             print("******* item is ", item)
+            raise
 
         if YAML_CHECK or OUTLINE:
             if OUTLINE:
