@@ -1,14 +1,16 @@
 import argparse
+from pathlib import Path
 from pprint import pprint
 from pypdf import PdfWriter, PdfReader, PageRange
 import yaml
 
 YAML_CHECK = False
 OUTLINE = False
+NO_FIGURE = False
 
-def set_opt(yc, ol):
-    global YAML_CHECK, OUTLINE
-    YAML_CHECK, OUTLINE = yc, ol
+def set_opt(yc, ol, nf):
+    global YAML_CHECK, OUTLINE, NO_FIGURE
+    YAML_CHECK, OUTLINE, NO_FIGURE = yc, ol, nf
 
 def toc2pdf(pgtoc):
     if pgtoc < 879:
@@ -81,14 +83,24 @@ def handle_args():
                     action='store_true')
     action.add_argument('-p', '--pdf', default=False,
                     action='store_true')
+    parser.add_argument('-n', '--no-figure', default=False,
+                    action='store_true')
     
     args = parser.parse_args()
-    set_opt(args.yaml_check, args.outline)
+    set_opt(args.yaml_check, args.outline, args.no_figure)
 
 if __name__ == '__main__':
 
     handle_args()
-    with open("bookindex.yaml") as stream:
+
+    if NO_FIGURE:
+        print("## loading index without figures")
+        fp = Path("bookindex.yaml")
+    else:
+        print("## loading index with figures")
+        fp = Path("bookindex-fig.yaml")
+
+    with open(fp) as stream:
         try:
             BOOKMARK={NAME:'root', CONTENT:yaml.safe_load(stream)}
         except yaml.YAMLError as exc:

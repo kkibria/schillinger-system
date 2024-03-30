@@ -12,13 +12,13 @@ def convert(spec, node:dict):
             cur = {NAME: item, CONTENT: []}
             node[CONTENT].append(cur)
 
-def remove_content(node:dict):
+def remove_empty_content(node:dict):
     content = node[CONTENT]
     if len(content) < 1:
         node.pop(CONTENT, None)
     else:
         for i in content:
-            remove_content(i)
+            remove_empty_content(i)
 
 with open("bookindex_original.yaml") as stream:
     try:
@@ -31,7 +31,7 @@ NAME = "n"
 CONTENT = "c"
 root = {NAME: "root", CONTENT: []}
 convert(b_i, root)
-remove_content(root)
+remove_empty_content(root)
 clean = yaml.safe_dump(root[CONTENT], sort_keys=False, width=300)
 with open("bookindex.yaml", "w") as f:
     f.write(clean)
