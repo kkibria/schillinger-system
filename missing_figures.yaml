@@ -1,0 +1,2049 @@
+#### last = 3, cur = 5
+#### missing figures between page 2 3
+- fig: '4'
+  page: -9999
+#### last = 6, cur = 8
+#### missing figures between page 5 6
+- fig: '7'
+  page: -9999
+#### last = 11, cur = 13
+#### missing figures between page 7 8
+- fig: '12'
+  page: -9999
+#### backward??? last = 13, cur = 11
+#### last = 11, cur = 16
+#### missing figures between page 8 9
+- fig: '12'
+  page: -9999
+- fig: '13'
+  page: -9999
+- fig: '14'
+  page: -9999
+- fig: '15'
+  page: -9999
+#### last = 16, cur = 20
+#### missing figures between page 9 11
+- fig: '17'
+  page: -9999
+- fig: '18'
+  page: -9999
+- fig: '19'
+  page: -9999
+#### last = 23, cur = 26
+#### missing figures between page 13 16
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+# check non number 36(continued) 19
+# check non number 36(concluded) 20
+#### last = 34, cur = 37
+#### missing figures between page 19 21
+- fig: '35'
+  page: -9999
+- fig: '36'
+  page: -9999
+#### last = 37, cur = 39
+#### missing figures between page 21 22
+- fig: '38'
+  page: -9999
+#### last = 40, cur = 42
+#### missing figures between page 22 23
+- fig: '41'
+  page: -9999
+#### last = 42, cur = 44
+#### missing figures between page 23 23
+- fig: '43'
+  page: -9999
+#### backward??? last = 44, cur = 43
+#### last = 43, cur = 47
+#### missing figures between page 23 25
+- fig: '44'
+  page: -9999
+- fig: '45'
+  page: -9999
+- fig: '46'
+  page: -9999
+#### last = 47, cur = 49
+#### missing figures between page 25 27
+- fig: '48'
+  page: -9999
+# check non number 54(continued) 30
+#### last = 53, cur = 56
+#### missing figures between page 29 33
+- fig: '54'
+  page: -9999
+- fig: '55'
+  page: -9999
+#### last = 56, cur = 58
+#### missing figures between page 33 36
+- fig: '57'
+  page: -9999
+#### last = 58, cur = 60
+#### missing figures between page 36 37
+- fig: '59'
+  page: -9999
+# check non number 65(continued) 38
+# check non number 65(concluded) 39
+#### last = 61, cur = 66
+#### missing figures between page 37 39
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+#### last = 68, cur = 70
+#### missing figures between page 40 41
+- fig: '69'
+  page: -9999
+# check non number 71(continued) 41
+# check non number 72(concluded) 43
+#### last = 70, cur = 73
+#### missing figures between page 41 43
+- fig: '71'
+  page: -9999
+- fig: '72'
+  page: -9999
+#### last = 73, cur = 76
+#### missing figures between page 43 47
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+# check non number 82(concluded) 49
+#### last = 81, cur = 83
+#### missing figures between page 48 49
+- fig: '82'
+  page: -9999
+#### last = 91, cur = 93
+#### missing figures between page 51 51
+- fig: '92'
+  page: -9999
+#### last = 94, cur = 96
+#### missing figures between page 52 52
+- fig: '95'
+  page: -9999
+#### last = 96, cur = 100
+#### missing figures between page 52 53
+- fig: '97'
+  page: -9999
+- fig: '98'
+  page: -9999
+- fig: '99'
+  page: -9999
+#### last = 102, cur = 108
+#### missing figures between page 54 54
+- fig: '103'
+  page: -9999
+- fig: '104'
+  page: -9999
+- fig: '105'
+  page: -9999
+- fig: '106'
+  page: -9999
+- fig: '107'
+  page: -9999
+#### backward??? last = 108, cur = 104
+#### last = 104, cur = 106
+#### missing figures between page 55 56
+- fig: '105'
+  page: -9999
+#### last = 112, cur = 115
+#### missing figures between page 58 60
+- fig: '113'
+  page: -9999
+- fig: '114'
+  page: -9999
+#### last = 115, cur = 120
+#### missing figures between page 60 63
+- fig: '116'
+  page: -9999
+- fig: '117'
+  page: -9999
+- fig: '118'
+  page: -9999
+- fig: '119'
+  page: -9999
+#### last = 120, cur = 123
+#### missing figures between page 63 67
+- fig: '121'
+  page: -9999
+- fig: '122'
+  page: -9999
+# check non number 125(continued) 68
+# check non number 125(concluded) 69
+#### last = 124, cur = 126
+#### missing figures between page 67 75
+- fig: '125'
+  page: -9999
+#### last = 131, cur = 133
+#### missing figures between page 77 78
+- fig: '132'
+  page: -9999
+#### last = 133, cur = 135
+#### missing figures between page 78 80
+- fig: '134'
+  page: -9999
+#### last = 136, cur = 138
+#### missing figures between page 81 86
+- fig: '137'
+  page: -9999
+#### last = 139, cur = 143
+#### missing figures between page 86 87
+- fig: '140'
+  page: -9999
+- fig: '141'
+  page: -9999
+- fig: '142'
+  page: -9999
+#### last = 144, cur = 149
+#### missing figures between page 87 93
+- fig: '145'
+  page: -9999
+- fig: '146'
+  page: -9999
+- fig: '147'
+  page: -9999
+- fig: '148'
+  page: -9999
+#### last = 149, cur = 152
+#### missing figures between page 93 95
+- fig: '150'
+  page: -9999
+- fig: '151'
+  page: -9999
+#### backward??? last = 154, cur = 1
+#### last = 5, cur = 8
+#### missing figures between page 108 111
+- fig: '6'
+  page: -9999
+- fig: '7'
+  page: -9999
+# check non number 10(continued) 112
+# check non number 10(concluded) 113
+#### last = 9, cur = 12
+#### missing figures between page 111 113
+- fig: '10'
+  page: -9999
+- fig: '11'
+  page: -9999
+# check non number 15(concluded) 118
+#### last = 13, cur = 17
+#### missing figures between page 113 126
+- fig: '14'
+  page: -9999
+- fig: '15'
+  page: -9999
+- fig: '16'
+  page: -9999
+#### last = 18, cur = 20
+#### missing figures between page 126 128
+- fig: '19'
+  page: -9999
+#### last = 21, cur = 28
+#### missing figures between page 130 132
+- fig: '22'
+  page: -9999
+- fig: '23'
+  page: -9999
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+#### backward??? last = 28, cur = 25
+#### last = 25, cur = 28
+#### missing figures between page 136 138
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+# check non number 29(continued) 139
+# check non number 29(concluded) 140
+#### last = 28, cur = 30
+#### missing figures between page 138 140
+- fig: '29'
+  page: -9999
+# check non number 33(continued) 149
+# check non number 33(continued) 151
+#### last = 30, cur = 34
+#### missing figures between page 140 154
+- fig: '31'
+  page: -9999
+- fig: '32'
+  page: -9999
+- fig: '33'
+  page: -9999
+#### last = 34, cur = 39
+#### missing figures between page 154 160
+- fig: '35'
+  page: -9999
+- fig: '36'
+  page: -9999
+- fig: '37'
+  page: -9999
+- fig: '38'
+  page: -9999
+# check non number 40(concluded) 163
+#### last = 39, cur = 42
+#### missing figures between page 160 165
+- fig: '40'
+  page: -9999
+- fig: '41'
+  page: -9999
+# check non number 43(continued) 166
+# check non number 43(concluded) 167
+#### last = 42, cur = 45
+#### missing figures between page 165 169
+- fig: '43'
+  page: -9999
+- fig: '44'
+  page: -9999
+#### last = 48, cur = 50
+#### missing figures between page 170 170
+- fig: '49'
+  page: -9999
+#### last = 51, cur = 66
+#### missing figures between page 171 174
+- fig: '52'
+  page: -9999
+- fig: '53'
+  page: -9999
+- fig: '54'
+  page: -9999
+- fig: '55'
+  page: -9999
+- fig: '56'
+  page: -9999
+- fig: '57'
+  page: -9999
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+- fig: '61'
+  page: -9999
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+#### backward??? last = 66, cur = 60
+#### backward??? last = 62, cur = 1
+#### last = 1, cur = 3
+#### missing figures between page 186 187
+- fig: '2'
+  page: -9999
+#### backward??? last = 6, cur = 5
+#### last = 5, cur = 8
+#### missing figures between page 190 192
+- fig: '6'
+  page: -9999
+- fig: '7'
+  page: -9999
+#### backward??? last = 8, cur = 7
+#### last = 7, cur = 9
+#### missing figures between page 192 193
+- fig: '8'
+  page: -9999
+#### last = 12, cur = 14
+#### missing figures between page 195 197
+- fig: '13'
+  page: -9999
+#### last = 18, cur = 21
+#### missing figures between page 198 199
+- fig: '19'
+  page: -9999
+- fig: '20'
+  page: -9999
+#### last = 32, cur = 34
+#### missing figures between page 205 206
+- fig: '33'
+  page: -9999
+#### last = 36, cur = 39
+#### missing figures between page 209 212
+- fig: '37'
+  page: -9999
+- fig: '38'
+  page: -9999
+#### backward??? last = 40, cur = 39
+#### last = 41, cur = 43
+#### missing figures between page 215 217
+- fig: '42'
+  page: -9999
+#### last = 43, cur = 45
+#### missing figures between page 217 218
+- fig: '44'
+  page: -9999
+#### backward??? last = 49, cur = 2
+#### last = 2, cur = 4
+#### missing figures between page 249 252
+- fig: '3'
+  page: -9999
+#### last = 15, cur = 17
+#### missing figures between page 261 262
+- fig: '16'
+  page: -9999
+#### last = 40, cur = 42
+#### missing figures between page 277 284
+- fig: '41'
+  page: -9999
+#### last = 52, cur = 55
+#### missing figures between page 294 297
+- fig: '53'
+  page: -9999
+- fig: '54'
+  page: -9999
+#### last = 61, cur = 63
+#### missing figures between page 304 305
+- fig: '62'
+  page: -9999
+#### last = 67, cur = 69
+#### missing figures between page 306 306
+- fig: '68'
+  page: -9999
+#### last = 70, cur = 72
+#### missing figures between page 306 306
+- fig: '71'
+  page: -9999
+#### last = 72, cur = 83
+#### missing figures between page 306 308
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+- fig: '77'
+  page: -9999
+- fig: '78'
+  page: -9999
+- fig: '79'
+  page: -9999
+- fig: '80'
+  page: -9999
+- fig: '81'
+  page: -9999
+- fig: '82'
+  page: -9999
+#### last = 83, cur = 85
+#### missing figures between page 308 309
+- fig: '84'
+  page: -9999
+#### last = 85, cur = 87
+#### missing figures between page 309 310
+- fig: '86'
+  page: -9999
+#### last = 90, cur = 93
+#### missing figures between page 312 318
+- fig: '91'
+  page: -9999
+- fig: '92'
+  page: -9999
+#### last = 94, cur = 96
+#### missing figures between page 319 321
+- fig: '95'
+  page: -9999
+#### backward??? last = 96, cur = 95
+#### last = 95, cur = 97
+#### missing figures between page 321 322
+- fig: '96'
+  page: -9999
+# check non number 99(continued) 325
+# check non number 99(concluded) 326
+#### last = 100, cur = 102
+#### missing figures between page 326 329
+- fig: '101'
+  page: -9999
+#### last = 104, cur = 106
+#### missing figures between page 331 333
+- fig: '105'
+  page: -9999
+#### last = 108, cur = 110
+#### missing figures between page 335 336
+- fig: '109'
+  page: -9999
+#### last = 110, cur = 112
+#### missing figures between page 336 337
+- fig: '111'
+  page: -9999
+#### last = 112, cur = 114
+#### missing figures between page 337 338
+- fig: '113'
+  page: -9999
+#### last = 114, cur = 116
+#### missing figures between page 338 339
+- fig: '115'
+  page: -9999
+#### last = 119, cur = 121
+#### missing figures between page 341 343
+- fig: '120'
+  page: -9999
+#### last = 129, cur = 132
+#### missing figures between page 348 350
+- fig: '130'
+  page: -9999
+- fig: '131'
+  page: -9999
+#### backward??? last = 135, cur = 1
+#### last = 9, cur = 11
+#### missing figures between page 367 369
+- fig: '10'
+  page: -9999
+#### last = 14, cur = 16
+#### missing figures between page 370 371
+- fig: '15'
+  page: -9999
+#### last = 24, cur = 26
+#### missing figures between page 375 379
+- fig: '25'
+  page: -9999
+#### backward??? last = 29, cur = 20
+#### last = 21, cur = 33
+#### missing figures between page 379 381
+- fig: '22'
+  page: -9999
+- fig: '23'
+  page: -9999
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+- fig: '28'
+  page: -9999
+- fig: '29'
+  page: -9999
+- fig: '30'
+  page: -9999
+- fig: '31'
+  page: -9999
+- fig: '32'
+  page: -9999
+#### last = 36, cur = 38
+#### missing figures between page 384 385
+- fig: '37'
+  page: -9999
+#### last = 40, cur = 42
+#### missing figures between page 385 386
+- fig: '41'
+  page: -9999
+#### last = 49, cur = 53
+#### missing figures between page 397 399
+- fig: '50'
+  page: -9999
+- fig: '51'
+  page: -9999
+- fig: '52'
+  page: -9999
+#### last = 55, cur = 61
+#### missing figures between page 400 403
+- fig: '56'
+  page: -9999
+- fig: '57'
+  page: -9999
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+#### last = 62, cur = 65
+#### missing figures between page 403 404
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+#### last = 67, cur = 70
+#### missing figures between page 406 408
+- fig: '68'
+  page: -9999
+- fig: '69'
+  page: -9999
+#### last = 74, cur = 77
+#### missing figures between page 409 411
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+#### last = 80, cur = 82
+#### missing figures between page 414 416
+- fig: '81'
+  page: -9999
+#### last = 82, cur = 88
+#### missing figures between page 416 416
+- fig: '83'
+  page: -9999
+- fig: '84'
+  page: -9999
+- fig: '85'
+  page: -9999
+- fig: '86'
+  page: -9999
+- fig: '87'
+  page: -9999
+#### backward??? last = 88, cur = 85
+#### last = 87, cur = 89
+#### missing figures between page 417 418
+- fig: '88'
+  page: -9999
+#### last = 90, cur = 92
+#### missing figures between page 420 420
+- fig: '91'
+  page: -9999
+#### backward??? last = 92, cur = 88
+#### last = 88, cur = 94
+#### missing figures between page 421 421
+- fig: '89'
+  page: -9999
+- fig: '90'
+  page: -9999
+- fig: '91'
+  page: -9999
+- fig: '92'
+  page: -9999
+- fig: '93'
+  page: -9999
+#### last = 96, cur = 98
+#### missing figures between page 422 423
+- fig: '97'
+  page: -9999
+#### last = 100, cur = 102
+#### missing figures between page 424 426
+- fig: '101'
+  page: -9999
+#### last = 104, cur = 107
+#### missing figures between page 427 429
+- fig: '105'
+  page: -9999
+- fig: '106'
+  page: -9999
+#### last = 108, cur = 112
+#### missing figures between page 429 432
+- fig: '109'
+  page: -9999
+- fig: '110'
+  page: -9999
+- fig: '111'
+  page: -9999
+#### last = 115, cur = 117
+#### missing figures between page 436 436
+- fig: '116'
+  page: -9999
+#### last = 120, cur = 122
+#### missing figures between page 437 438
+- fig: '121'
+  page: -9999
+#### last = 126, cur = 128
+#### missing figures between page 439 440
+- fig: '127'
+  page: -9999
+#### last = 142, cur = 145
+#### missing figures between page 447 449
+- fig: '143'
+  page: -9999
+- fig: '144'
+  page: -9999
+#### last = 149, cur = 152
+#### missing figures between page 453 456
+- fig: '150'
+  page: -9999
+- fig: '151'
+  page: -9999
+#### last = 153, cur = 155
+#### missing figures between page 457 460
+- fig: '154'
+  page: -9999
+#### last = 161, cur = 163
+#### missing figures between page 463 464
+- fig: '162'
+  page: -9999
+#### last = 174, cur = 177
+#### missing figures between page 468 470
+- fig: '175'
+  page: -9999
+- fig: '176'
+  page: -9999
+#### last = 178, cur = 180
+#### missing figures between page 470 472
+- fig: '179'
+  page: -9999
+#### last = 187, cur = 190
+#### missing figures between page 476 478
+- fig: '188'
+  page: -9999
+- fig: '189'
+  page: -9999
+#### last = 201, cur = 204
+#### missing figures between page 487 490
+- fig: '202'
+  page: -9999
+- fig: '203'
+  page: -9999
+#### last = 207, cur = 210
+#### missing figures between page 491 494
+- fig: '208'
+  page: -9999
+- fig: '209'
+  page: -9999
+#### last = 212, cur = 218
+#### missing figures between page 500 503
+- fig: '213'
+  page: -9999
+- fig: '214'
+  page: -9999
+- fig: '215'
+  page: -9999
+- fig: '216'
+  page: -9999
+- fig: '217'
+  page: -9999
+#### last = 220, cur = 222
+#### missing figures between page 505 506
+- fig: '221'
+  page: -9999
+#### last = 227, cur = 229
+#### missing figures between page 510 512
+- fig: '228'
+  page: -9999
+#### last = 229, cur = 231
+#### missing figures between page 512 513
+- fig: '230'
+  page: -9999
+#### last = 232, cur = 234
+#### missing figures between page 513 515
+- fig: '233'
+  page: -9999
+#### last = 235, cur = 286
+#### missing figures between page 515 516
+- fig: '236'
+  page: -9999
+- fig: '237'
+  page: -9999
+- fig: '238'
+  page: -9999
+- fig: '239'
+  page: -9999
+- fig: '240'
+  page: -9999
+- fig: '241'
+  page: -9999
+- fig: '242'
+  page: -9999
+- fig: '243'
+  page: -9999
+- fig: '244'
+  page: -9999
+- fig: '245'
+  page: -9999
+- fig: '246'
+  page: -9999
+- fig: '247'
+  page: -9999
+- fig: '248'
+  page: -9999
+- fig: '249'
+  page: -9999
+- fig: '250'
+  page: -9999
+- fig: '251'
+  page: -9999
+- fig: '252'
+  page: -9999
+- fig: '253'
+  page: -9999
+- fig: '254'
+  page: -9999
+- fig: '255'
+  page: -9999
+- fig: '256'
+  page: -9999
+- fig: '257'
+  page: -9999
+- fig: '258'
+  page: -9999
+- fig: '259'
+  page: -9999
+- fig: '260'
+  page: -9999
+- fig: '261'
+  page: -9999
+- fig: '262'
+  page: -9999
+- fig: '263'
+  page: -9999
+- fig: '264'
+  page: -9999
+- fig: '265'
+  page: -9999
+- fig: '266'
+  page: -9999
+- fig: '267'
+  page: -9999
+- fig: '268'
+  page: -9999
+- fig: '269'
+  page: -9999
+- fig: '270'
+  page: -9999
+- fig: '271'
+  page: -9999
+- fig: '272'
+  page: -9999
+- fig: '273'
+  page: -9999
+- fig: '274'
+  page: -9999
+- fig: '275'
+  page: -9999
+- fig: '276'
+  page: -9999
+- fig: '277'
+  page: -9999
+- fig: '278'
+  page: -9999
+- fig: '279'
+  page: -9999
+- fig: '280'
+  page: -9999
+- fig: '281'
+  page: -9999
+- fig: '282'
+  page: -9999
+- fig: '283'
+  page: -9999
+- fig: '284'
+  page: -9999
+- fig: '285'
+  page: -9999
+#### backward??? last = 288, cur = 239
+#### backward??? last = 251, cur = 250
+#### last = 250, cur = 252
+#### missing figures between page 528 529
+- fig: '251'
+  page: -9999
+#### last = 252, cur = 256
+#### missing figures between page 529 531
+- fig: '253'
+  page: -9999
+- fig: '254'
+  page: -9999
+- fig: '255'
+  page: -9999
+#### last = 269, cur = 271
+#### missing figures between page 537 537
+- fig: '270'
+  page: -9999
+#### last = 271, cur = 273
+#### missing figures between page 537 538
+- fig: '272'
+  page: -9999
+#### last = 273, cur = 275
+#### missing figures between page 538 538
+- fig: '274'
+  page: -9999
+#### last = 276, cur = 278
+#### missing figures between page 539 540
+- fig: '277'
+  page: -9999
+#### last = 287, cur = 290
+#### missing figures between page 545 548
+- fig: '288'
+  page: -9999
+- fig: '289'
+  page: -9999
+#### last = 296, cur = 298
+#### missing figures between page 553 555
+- fig: '297'
+  page: -9999
+#### last = 299, cur = 301
+#### missing figures between page 555 556
+- fig: '300'
+  page: -9999
+#### last = 307, cur = 309
+#### missing figures between page 558 561
+- fig: '308'
+  page: -9999
+#### last = 310, cur = 312
+#### missing figures between page 562 563
+- fig: '311'
+  page: -9999
+#### last = 323, cur = 327
+#### missing figures between page 573 574
+- fig: '324'
+  page: -9999
+- fig: '325'
+  page: -9999
+- fig: '326'
+  page: -9999
+#### last = 338, cur = 340
+#### missing figures between page 579 580
+- fig: '339'
+  page: -9999
+#### last = 341, cur = 343
+#### missing figures between page 580 581
+- fig: '342'
+  page: -9999
+#### backward??? last = 343, cur = 335
+#### last = 335, cur = 344
+#### missing figures between page 582 582
+- fig: '336'
+  page: -9999
+- fig: '337'
+  page: -9999
+- fig: '338'
+  page: -9999
+- fig: '339'
+  page: -9999
+- fig: '340'
+  page: -9999
+- fig: '341'
+  page: -9999
+- fig: '342'
+  page: -9999
+- fig: '343'
+  page: -9999
+#### last = 345, cur = 348
+#### missing figures between page 582 586
+- fig: '346'
+  page: -9999
+- fig: '347'
+  page: -9999
+#### last = 350, cur = 352
+#### missing figures between page 590 593
+- fig: '351'
+  page: -9999
+#### last = 352, cur = 354
+#### missing figures between page 593 595
+- fig: '353'
+  page: -9999
+#### backward??? last = 369, cur = 359
+#### last = 359, cur = 372
+#### missing figures between page 611 612
+- fig: '360'
+  page: -9999
+- fig: '361'
+  page: -9999
+- fig: '362'
+  page: -9999
+- fig: '363'
+  page: -9999
+- fig: '364'
+  page: -9999
+- fig: '365'
+  page: -9999
+- fig: '366'
+  page: -9999
+- fig: '367'
+  page: -9999
+- fig: '368'
+  page: -9999
+- fig: '369'
+  page: -9999
+- fig: '370'
+  page: -9999
+- fig: '371'
+  page: -9999
+#### backward??? last = 372, cur = 1
+#### backward??? last = 3, cur = 2
+#### last = 2, cur = 4
+#### missing figures between page 621 622
+- fig: '3'
+  page: -9999
+#### last = 8, cur = 10
+#### missing figures between page 626 629
+- fig: '9'
+  page: -9999
+#### last = 10, cur = 13
+#### missing figures between page 630 635
+- fig: '11'
+  page: -9999
+- fig: '12'
+  page: -9999
+#### last = 20, cur = 23
+#### missing figures between page 647 649
+- fig: '21'
+  page: -9999
+- fig: '22'
+  page: -9999
+#### last = 33, cur = 35
+#### missing figures between page 661 662
+- fig: '34'
+  page: -9999
+#### last = 36, cur = 38
+#### missing figures between page 663 664
+- fig: '37'
+  page: -9999
+#### last = 44, cur = 47
+#### missing figures between page 669 670
+- fig: '45'
+  page: -9999
+- fig: '46'
+  page: -9999
+#### last = 63, cur = 65
+#### missing figures between page 681 682
+- fig: '64'
+  page: -9999
+#### last = 65, cur = 67
+#### missing figures between page 682 685
+- fig: '66'
+  page: -9999
+#### last = 69, cur = 71
+#### missing figures between page 686 687
+- fig: '70'
+  page: -9999
+#### backward??? last = 74, cur = 2
+#### last = 4, cur = 6
+#### missing figures between page 701 703
+- fig: '5'
+  page: -9999
+#### last = 12, cur = 15
+#### missing figures between page 710 713
+- fig: '13'
+  page: -9999
+- fig: '14'
+  page: -9999
+#### last = 16, cur = 18
+#### missing figures between page 715 716
+- fig: '17'
+  page: -9999
+#### last = 19, cur = 22
+#### missing figures between page 716 718
+- fig: '20'
+  page: -9999
+- fig: '21'
+  page: -9999
+#### last = 23, cur = 28
+#### missing figures between page 719 722
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+#### backward??? last = 28, cur = 20
+#### last = 20, cur = 29
+#### missing figures between page 722 723
+- fig: '21'
+  page: -9999
+- fig: '22'
+  page: -9999
+- fig: '23'
+  page: -9999
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+- fig: '28'
+  page: -9999
+#### last = 29, cur = 32
+#### missing figures between page 723 724
+- fig: '30'
+  page: -9999
+- fig: '31'
+  page: -9999
+#### last = 32, cur = 35
+#### missing figures between page 724 728
+- fig: '33'
+  page: -9999
+- fig: '34'
+  page: -9999
+#### last = 35, cur = 39
+#### missing figures between page 728 731
+- fig: '36'
+  page: -9999
+- fig: '37'
+  page: -9999
+- fig: '38'
+  page: -9999
+#### last = 50, cur = 52
+#### missing figures between page 746 747
+- fig: '51'
+  page: -9999
+#### last = 57, cur = 62
+#### missing figures between page 752 760
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+- fig: '61'
+  page: -9999
+#### last = 64, cur = 66
+#### missing figures between page 761 762
+- fig: '65'
+  page: -9999
+#### last = 70, cur = 79
+#### missing figures between page 764 771
+- fig: '71'
+  page: -9999
+- fig: '72'
+  page: -9999
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+- fig: '77'
+  page: -9999
+- fig: '78'
+  page: -9999
+#### last = 87, cur = 90
+#### missing figures between page 780 783
+- fig: '88'
+  page: -9999
+- fig: '89'
+  page: -9999
+#### last = 91, cur = 93
+#### missing figures between page 785 787
+- fig: '92'
+  page: -9999
+#### last = 97, cur = 100
+#### missing figures between page 795 797
+- fig: '98'
+  page: -9999
+- fig: '99'
+  page: -9999
+#### last = 100, cur = 104
+#### missing figures between page 797 799
+- fig: '101'
+  page: -9999
+- fig: '102'
+  page: -9999
+- fig: '103'
+  page: -9999
+#### last = 104, cur = 106
+#### missing figures between page 799 799
+- fig: '105'
+  page: -9999
+#### last = 106, cur = 108
+#### missing figures between page 799 801
+- fig: '107'
+  page: -9999
+#### last = 108, cur = 110
+#### missing figures between page 801 809
+- fig: '109'
+  page: -9999
+#### last = 114, cur = 116
+#### missing figures between page 815 817
+- fig: '115'
+  page: -9999
+#### backward??? last = 125, cur = 124
+#### last = 124, cur = 129
+#### missing figures between page 838 847
+- fig: '125'
+  page: -9999
+- fig: '126'
+  page: -9999
+- fig: '127'
+  page: -9999
+- fig: '128'
+  page: -9999
+# check non number 133(2) 862
+#### backward??? last = 143, cur = 1
+#### last = 4, cur = 7
+#### missing figures between page 889 895
+- fig: '5'
+  page: -9999
+- fig: '6'
+  page: -9999
+#### last = 7, cur = 10
+#### missing figures between page 895 897
+- fig: '8'
+  page: -9999
+- fig: '9'
+  page: -9999
+#### last = 11, cur = 15
+#### missing figures between page 898 905
+- fig: '12'
+  page: -9999
+- fig: '13'
+  page: -9999
+- fig: '14'
+  page: -9999
+#### last = 16, cur = 77
+#### missing figures between page 906 908
+- fig: '17'
+  page: -9999
+- fig: '18'
+  page: -9999
+- fig: '19'
+  page: -9999
+- fig: '20'
+  page: -9999
+- fig: '21'
+  page: -9999
+- fig: '22'
+  page: -9999
+- fig: '23'
+  page: -9999
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+- fig: '28'
+  page: -9999
+- fig: '29'
+  page: -9999
+- fig: '30'
+  page: -9999
+- fig: '31'
+  page: -9999
+- fig: '32'
+  page: -9999
+- fig: '33'
+  page: -9999
+- fig: '34'
+  page: -9999
+- fig: '35'
+  page: -9999
+- fig: '36'
+  page: -9999
+- fig: '37'
+  page: -9999
+- fig: '38'
+  page: -9999
+- fig: '39'
+  page: -9999
+- fig: '40'
+  page: -9999
+- fig: '41'
+  page: -9999
+- fig: '42'
+  page: -9999
+- fig: '43'
+  page: -9999
+- fig: '44'
+  page: -9999
+- fig: '45'
+  page: -9999
+- fig: '46'
+  page: -9999
+- fig: '47'
+  page: -9999
+- fig: '48'
+  page: -9999
+- fig: '49'
+  page: -9999
+- fig: '50'
+  page: -9999
+- fig: '51'
+  page: -9999
+- fig: '52'
+  page: -9999
+- fig: '53'
+  page: -9999
+- fig: '54'
+  page: -9999
+- fig: '55'
+  page: -9999
+- fig: '56'
+  page: -9999
+- fig: '57'
+  page: -9999
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+- fig: '61'
+  page: -9999
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+- fig: '66'
+  page: -9999
+- fig: '67'
+  page: -9999
+- fig: '68'
+  page: -9999
+- fig: '69'
+  page: -9999
+- fig: '70'
+  page: -9999
+- fig: '71'
+  page: -9999
+- fig: '72'
+  page: -9999
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+#### backward??? last = 77, cur = 17
+#### last = 17, cur = 19
+#### missing figures between page 909 912
+- fig: '18'
+  page: -9999
+#### last = 19, cur = 21
+#### missing figures between page 912 913
+- fig: '20'
+  page: -9999
+#### last = 27, cur = 30
+#### missing figures between page 916 918
+- fig: '28'
+  page: -9999
+- fig: '29'
+  page: -9999
+#### last = 31, cur = 33
+#### missing figures between page 918 920
+- fig: '32'
+  page: -9999
+#### last = 34, cur = 36
+#### missing figures between page 920 921
+- fig: '35'
+  page: -9999
+#### last = 40, cur = 42
+#### missing figures between page 924 926
+- fig: '41'
+  page: -9999
+#### last = 43, cur = 45
+#### missing figures between page 926 927
+- fig: '44'
+  page: -9999
+#### last = 45, cur = 54
+#### missing figures between page 927 935
+- fig: '46'
+  page: -9999
+- fig: '47'
+  page: -9999
+- fig: '48'
+  page: -9999
+- fig: '49'
+  page: -9999
+- fig: '50'
+  page: -9999
+- fig: '51'
+  page: -9999
+- fig: '52'
+  page: -9999
+- fig: '53'
+  page: -9999
+#### last = 57, cur = 59
+#### missing figures between page 936 939
+- fig: '58'
+  page: -9999
+#### last = 61, cur = 69
+#### missing figures between page 940 946
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+- fig: '66'
+  page: -9999
+- fig: '67'
+  page: -9999
+- fig: '68'
+  page: -9999
+#### last = 70, cur = 72
+#### missing figures between page 948 951
+- fig: '71'
+  page: -9999
+#### last = 72, cur = 77
+#### missing figures between page 951 956
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+#### last = 77, cur = 79
+#### missing figures between page 956 958
+- fig: '78'
+  page: -9999
+#### last = 81, cur = 83
+#### missing figures between page 959 961
+- fig: '82'
+  page: -9999
+#### last = 85, cur = 87
+#### missing figures between page 963 966
+- fig: '86'
+  page: -9999
+#### last = 99, cur = 105
+#### missing figures between page 978 982
+- fig: '100'
+  page: -9999
+- fig: '101'
+  page: -9999
+- fig: '102'
+  page: -9999
+- fig: '103'
+  page: -9999
+- fig: '104'
+  page: -9999
+#### last = 114, cur = 118
+#### missing figures between page 985 988
+- fig: '115'
+  page: -9999
+- fig: '116'
+  page: -9999
+- fig: '117'
+  page: -9999
+#### last = 118, cur = 122
+#### missing figures between page 988 990
+- fig: '119'
+  page: -9999
+- fig: '120'
+  page: -9999
+- fig: '121'
+  page: -9999
+#### last = 123, cur = 128
+#### missing figures between page 990 992
+- fig: '124'
+  page: -9999
+- fig: '125'
+  page: -9999
+- fig: '126'
+  page: -9999
+- fig: '127'
+  page: -9999
+#### last = 128, cur = 130
+#### missing figures between page 992 993
+- fig: '129'
+  page: -9999
+#### last = 133, cur = 136
+#### missing figures between page 994 995
+- fig: '134'
+  page: -9999
+- fig: '135'
+  page: -9999
+#### last = 136, cur = 145
+#### missing figures between page 995 999
+- fig: '137'
+  page: -9999
+- fig: '138'
+  page: -9999
+- fig: '139'
+  page: -9999
+- fig: '140'
+  page: -9999
+- fig: '141'
+  page: -9999
+- fig: '142'
+  page: -9999
+- fig: '143'
+  page: -9999
+- fig: '144'
+  page: -9999
+#### last = 145, cur = 147
+#### missing figures between page 999 1000
+- fig: '146'
+  page: -9999
+#### last = 148, cur = 150
+#### missing figures between page 1001 1004
+- fig: '149'
+  page: -9999
+#### last = 152, cur = 157
+#### missing figures between page 1005 1009
+- fig: '153'
+  page: -9999
+- fig: '154'
+  page: -9999
+- fig: '155'
+  page: -9999
+- fig: '156'
+  page: -9999
+#### last = 157, cur = 160
+#### missing figures between page 1009 1014
+- fig: '158'
+  page: -9999
+- fig: '159'
+  page: -9999
+#### last = 160, cur = 164
+#### missing figures between page 1016 1021
+- fig: '161'
+  page: -9999
+- fig: '162'
+  page: -9999
+- fig: '163'
+  page: -9999
+#### last = 164, cur = 166
+#### missing figures between page 1023 1025
+- fig: '165'
+  page: -9999
+#### last = 173, cur = 176
+#### missing figures between page 1041 1053
+- fig: '174'
+  page: -9999
+- fig: '175'
+  page: -9999
+#### backward??? last = 177, cur = 1
+#### last = 5, cur = 7
+#### missing figures between page 1071 1072
+- fig: '6'
+  page: -9999
+#### last = 7, cur = 10
+#### missing figures between page 1072 1073
+- fig: '8'
+  page: -9999
+- fig: '9'
+  page: -9999
+#### last = 10, cur = 12
+#### missing figures between page 1073 1075
+- fig: '11'
+  page: -9999
+#### last = 13, cur = 16
+#### missing figures between page 1076 1082
+- fig: '14'
+  page: -9999
+- fig: '15'
+  page: -9999
+#### last = 16, cur = 18
+#### missing figures between page 1082 1085
+- fig: '17'
+  page: -9999
+#### backward??? last = 20, cur = 19
+#### last = 19, cur = 22
+#### missing figures between page 1088 1090
+- fig: '20'
+  page: -9999
+- fig: '21'
+  page: -9999
+#### last = 22, cur = 24
+#### missing figures between page 1090 1093
+- fig: '23'
+  page: -9999
+#### last = 24, cur = 31
+#### missing figures between page 1094 1103
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+- fig: '28'
+  page: -9999
+- fig: '29'
+  page: -9999
+- fig: '30'
+  page: -9999
+#### last = 33, cur = 37
+#### missing figures between page 1106 1111
+- fig: '34'
+  page: -9999
+- fig: '35'
+  page: -9999
+- fig: '36'
+  page: -9999
+#### last = 37, cur = 40
+#### missing figures between page 1111 1115
+- fig: '38'
+  page: -9999
+- fig: '39'
+  page: -9999
+#### last = 42, cur = 44
+#### missing figures between page 1118 1120
+- fig: '43'
+  page: -9999
+#### last = 44, cur = 47
+#### missing figures between page 1120 1125
+- fig: '45'
+  page: -9999
+- fig: '46'
+  page: -9999
+#### last = 47, cur = 49
+#### missing figures between page 1125 1129
+- fig: '48'
+  page: -9999
+#### last = 49, cur = 51
+#### missing figures between page 1130 1134
+- fig: '50'
+  page: -9999
+#### last = 57, cur = 66
+#### missing figures between page 1145 1151
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+- fig: '61'
+  page: -9999
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+#### last = 67, cur = 69
+#### missing figures between page 1152 1156
+- fig: '68'
+  page: -9999
+#### last = 69, cur = 85
+#### missing figures between page 1156 1166
+- fig: '70'
+  page: -9999
+- fig: '71'
+  page: -9999
+- fig: '72'
+  page: -9999
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+- fig: '76'
+  page: -9999
+- fig: '77'
+  page: -9999
+- fig: '78'
+  page: -9999
+- fig: '79'
+  page: -9999
+- fig: '80'
+  page: -9999
+- fig: '81'
+  page: -9999
+- fig: '82'
+  page: -9999
+- fig: '83'
+  page: -9999
+- fig: '84'
+  page: -9999
+#### last = 86, cur = 88
+#### missing figures between page 1167 1172
+- fig: '87'
+  page: -9999
+#### last = 90, cur = 93
+#### missing figures between page 1175 1179
+- fig: '91'
+  page: -9999
+- fig: '92'
+  page: -9999
+#### last = 94, cur = 96
+#### missing figures between page 1180 1186
+- fig: '95'
+  page: -9999
+#### last = 99, cur = 102
+#### missing figures between page 1193 1195
+- fig: '100'
+  page: -9999
+- fig: '101'
+  page: -9999
+#### last = 105, cur = 107
+#### missing figures between page 1197 1198
+- fig: '106'
+  page: -9999
+#### last = 109, cur = 112
+#### missing figures between page 1200 1201
+- fig: '110'
+  page: -9999
+- fig: '111'
+  page: -9999
+#### last = 112, cur = 117
+#### missing figures between page 1201 1207
+- fig: '113'
+  page: -9999
+- fig: '114'
+  page: -9999
+- fig: '115'
+  page: -9999
+- fig: '116'
+  page: -9999
+#### last = 117, cur = 119
+#### missing figures between page 1207 1210
+- fig: '118'
+  page: -9999
+#### last = 123, cur = 125
+#### missing figures between page 1217 1219
+- fig: '124'
+  page: -9999
+#### last = 125, cur = 127
+#### missing figures between page 1219 1221
+- fig: '126'
+  page: -9999
+#### last = 128, cur = 130
+#### missing figures between page 1221 1228
+- fig: '129'
+  page: -9999
+#### last = 136, cur = 138
+#### missing figures between page 1232 1234
+- fig: '137'
+  page: -9999
+#### last = 141, cur = 143
+#### missing figures between page 1238 1241
+- fig: '142'
+  page: -9999
+#### backward??? last = 143, cur = 142
+#### last = 142, cur = 145
+#### missing figures between page 1244 1245
+- fig: '143'
+  page: -9999
+- fig: '144'
+  page: -9999
+#### last = 146, cur = 148
+#### missing figures between page 1246 1247
+- fig: '147'
+  page: -9999
+#### backward??? last = 148, cur = 1
+#### last = 3, cur = 5
+#### missing figures between page 1258 1259
+- fig: '4'
+  page: -9999
+#### last = 8, cur = 11
+#### missing figures between page 1262 1264
+- fig: '9'
+  page: -9999
+- fig: '10'
+  page: -9999
+#### last = 11, cur = 13
+#### missing figures between page 1264 1266
+- fig: '12'
+  page: -9999
+#### backward??? last = 13, cur = 10
+#### last = 10, cur = 14
+#### missing figures between page 1266 1267
+- fig: '11'
+  page: -9999
+- fig: '12'
+  page: -9999
+- fig: '13'
+  page: -9999
+#### last = 14, cur = 16
+#### missing figures between page 1267 1269
+- fig: '15'
+  page: -9999
+#### last = 16, cur = 18
+#### missing figures between page 1269 1270
+- fig: '17'
+  page: -9999
+#### backward??? last = 19, cur = 2
+#### last = 5, cur = 7
+#### missing figures between page 1285 1287
+- fig: '6'
+  page: -9999
+#### last = 7, cur = 9
+#### missing figures between page 1287 1288
+- fig: '8'
+  page: -9999
+#### last = 10, cur = 12
+#### missing figures between page 1289 1291
+- fig: '11'
+  page: -9999
+#### backward??? last = 13, cur = 12
+#### last = 12, cur = 16
+#### missing figures between page 1293 1294
+- fig: '13'
+  page: -9999
+- fig: '14'
+  page: -9999
+- fig: '15'
+  page: -9999
+#### last = 17, cur = 19
+#### missing figures between page 1296 1297
+- fig: '18'
+  page: -9999
+#### last = 19, cur = 21
+#### missing figures between page 1297 1298
+- fig: '20'
+  page: -9999
+#### last = 26, cur = 28
+#### missing figures between page 1301 1304
+- fig: '27'
+  page: -9999
+#### last = 29, cur = 31
+#### missing figures between page 1307 1308
+- fig: '30'
+  page: -9999
+#### last = 32, cur = 34
+#### missing figures between page 1311 1313
+- fig: '33'
+  page: -9999
+#### last = 38, cur = 40
+#### missing figures between page 1337 1338
+- fig: '39'
+  page: -9999
+#### backward??? last = 45, cur = 44
+#### last = 44, cur = 46
+#### missing figures between page 1364 1373
+- fig: '45'
+  page: -9999
+#### last = 47, cur = 49
+#### missing figures between page 1383 1385
+- fig: '48'
+  page: -9999
+#### last = 51, cur = 53
+#### missing figures between page 1391 1394
+- fig: '52'
+  page: -9999
+#### last = 59, cur = 61
+#### missing figures between page 1419 1422
+- fig: '60'
+  page: -9999
+#### last = 62, cur = 64
+#### missing figures between page 1423 1425
+- fig: '63'
+  page: -9999
+#### last = 64, cur = 68
+#### missing figures between page 1425 1434
+- fig: '65'
+  page: -9999
+- fig: '66'
+  page: -9999
+- fig: '67'
+  page: -9999
+#### last = 79, cur = 81
+#### missing figures between page 1447 1448
+- fig: '80'
+  page: -9999
+#### last = 84, cur = 86
+#### missing figures between page 1449 1458
+- fig: '85'
+  page: -9999
+#### last = 86, cur = 88
+#### missing figures between page 1458 1462
+- fig: '87'
+  page: -9999
+#### last = 95, cur = 97
+#### missing figures between page 1469 1474
+- fig: '96'
+  page: -9999
+#### backward??? last = 98, cur = 1
+#### last = 2, cur = 4
+#### missing figures between page 1491 1491
+- fig: '3'
+  page: -9999
+#### last = 5, cur = 7
+#### missing figures between page 1492 1493
+- fig: '6'
+  page: -9999
+#### last = 11, cur = 13
+#### missing figures between page 1497 1498
+- fig: '12'
+  page: -9999
+#### last = 14, cur = 17
+#### missing figures between page 1499 1504
+- fig: '15'
+  page: -9999
+- fig: '16'
+  page: -9999
+#### last = 27, cur = 29
+#### missing figures between page 1509 1511
+- fig: '28'
+  page: -9999
+#### last = 35, cur = 37
+#### missing figures between page 1518 1520
+- fig: '36'
+  page: -9999
+#### last = 38, cur = 40
+#### missing figures between page 1520 1522
+- fig: '39'
+  page: -9999
+#### last = 40, cur = 43
+#### missing figures between page 1522 1529
+- fig: '41'
+  page: -9999
+- fig: '42'
+  page: -9999
+#### last = 43, cur = 45
+#### missing figures between page 1529 1531
+- fig: '44'
+  page: -9999
+#### last = 56, cur = 58
+#### missing figures between page 1539 1540
+- fig: '57'
+  page: -9999
+#### last = 66, cur = 68
+#### missing figures between page 1559 1561
+- fig: '67'
+  page: -9999
+#### last = 72, cur = 74
+#### missing figures between page 1564 1567
+- fig: '73'
+  page: -9999
+#### backward??? last = 75, cur = 16
+#### last = 16, cur = 76
+#### missing figures between page 1572 1573
+- fig: '17'
+  page: -9999
+- fig: '18'
+  page: -9999
+- fig: '19'
+  page: -9999
+- fig: '20'
+  page: -9999
+- fig: '21'
+  page: -9999
+- fig: '22'
+  page: -9999
+- fig: '23'
+  page: -9999
+- fig: '24'
+  page: -9999
+- fig: '25'
+  page: -9999
+- fig: '26'
+  page: -9999
+- fig: '27'
+  page: -9999
+- fig: '28'
+  page: -9999
+- fig: '29'
+  page: -9999
+- fig: '30'
+  page: -9999
+- fig: '31'
+  page: -9999
+- fig: '32'
+  page: -9999
+- fig: '33'
+  page: -9999
+- fig: '34'
+  page: -9999
+- fig: '35'
+  page: -9999
+- fig: '36'
+  page: -9999
+- fig: '37'
+  page: -9999
+- fig: '38'
+  page: -9999
+- fig: '39'
+  page: -9999
+- fig: '40'
+  page: -9999
+- fig: '41'
+  page: -9999
+- fig: '42'
+  page: -9999
+- fig: '43'
+  page: -9999
+- fig: '44'
+  page: -9999
+- fig: '45'
+  page: -9999
+- fig: '46'
+  page: -9999
+- fig: '47'
+  page: -9999
+- fig: '48'
+  page: -9999
+- fig: '49'
+  page: -9999
+- fig: '50'
+  page: -9999
+- fig: '51'
+  page: -9999
+- fig: '52'
+  page: -9999
+- fig: '53'
+  page: -9999
+- fig: '54'
+  page: -9999
+- fig: '55'
+  page: -9999
+- fig: '56'
+  page: -9999
+- fig: '57'
+  page: -9999
+- fig: '58'
+  page: -9999
+- fig: '59'
+  page: -9999
+- fig: '60'
+  page: -9999
+- fig: '61'
+  page: -9999
+- fig: '62'
+  page: -9999
+- fig: '63'
+  page: -9999
+- fig: '64'
+  page: -9999
+- fig: '65'
+  page: -9999
+- fig: '66'
+  page: -9999
+- fig: '67'
+  page: -9999
+- fig: '68'
+  page: -9999
+- fig: '69'
+  page: -9999
+- fig: '70'
+  page: -9999
+- fig: '71'
+  page: -9999
+- fig: '72'
+  page: -9999
+- fig: '73'
+  page: -9999
+- fig: '74'
+  page: -9999
+- fig: '75'
+  page: -9999
+#### last = 78, cur = 80
+#### missing figures between page 1574 1587
+- fig: '79'
+  page: -9999
+#### last = 83, cur = 85
+#### missing figures between page 1588 1589
+- fig: '84'
+  page: -9999
+#### last = 85, cur = 87
+#### missing figures between page 1589 1589
+- fig: '86'
+  page: -9999
+#### last = 90, cur = 92
+#### missing figures between page 1590 1591
+- fig: '91'
+  page: -9999
+#### backward??? last = 95, cur = 94
+#### last = 94, cur = 96
+#### missing figures between page 1593 1596
+- fig: '95'
+  page: -9999
+#### last = 96, cur = 99
+#### missing figures between page 1596 1600
+- fig: '97'
+  page: -9999
+- fig: '98'
+  page: -9999

@@ -39,7 +39,7 @@ def get_fig_list(pfigidx):
         with open(pfigidx, "w") as f:
             f.write(figyaml)
 
-    print()
+        print()
     return fig_list
 
 def get_desc_page(item):
