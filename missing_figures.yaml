@@ -10,15 +10,8 @@
 #### missing figures between page 7 8
 - fig: '12'
   page: -9999
-#### backward??? last = 13, cur = 11
-#### last = 11, cur = 16
+#### last = 14, cur = 16
 #### missing figures between page 8 9
-- fig: '12'
-  page: -9999
-- fig: '13'
-  page: -9999
-- fig: '14'
-  page: -9999
 - fig: '15'
   page: -9999
 #### last = 16, cur = 20
@@ -35,13 +28,9 @@
   page: -9999
 - fig: '25'
   page: -9999
-# check non number 36(continued) 19
-# check non number 36(concluded) 20
-#### last = 34, cur = 37
-#### missing figures between page 19 21
+#### last = 34, cur = 36
+#### missing figures between page 19 19
 - fig: '35'
-  page: -9999
-- fig: '36'
   page: -9999
 #### last = 37, cur = 39
 #### missing figures between page 21 22
@@ -55,24 +44,16 @@
 #### missing figures between page 23 23
 - fig: '43'
   page: -9999
-#### backward??? last = 44, cur = 43
-#### last = 43, cur = 47
+#### last = 45, cur = 47
 #### missing figures between page 23 25
-- fig: '44'
-  page: -9999
-- fig: '45'
-  page: -9999
 - fig: '46'
   page: -9999
 #### last = 47, cur = 49
 #### missing figures between page 25 27
 - fig: '48'
   page: -9999
-# check non number 54(continued) 30
-#### last = 53, cur = 56
-#### missing figures between page 29 33
-- fig: '54'
-  page: -9999
+#### last = 54, cur = 56
+#### missing figures between page 30 33
 - fig: '55'
   page: -9999
 #### last = 56, cur = 58
@@ -83,28 +64,20 @@
 #### missing figures between page 36 37
 - fig: '59'
   page: -9999
-# check non number 65(continued) 38
-# check non number 65(concluded) 39
-#### last = 61, cur = 66
-#### missing figures between page 37 39
+#### last = 61, cur = 65
+#### missing figures between page 37 38
 - fig: '62'
   page: -9999
 - fig: '63'
   page: -9999
 - fig: '64'
   page: -9999
-- fig: '65'
-  page: -9999
 #### last = 68, cur = 70
 #### missing figures between page 40 41
 - fig: '69'
   page: -9999
-# check non number 71(continued) 41
-# check non number 72(concluded) 43
-#### last = 70, cur = 73
+#### last = 71, cur = 73
 #### missing figures between page 41 43
-- fig: '71'
-  page: -9999
 - fig: '72'
   page: -9999
 #### last = 73, cur = 76
@@ -112,11 +85,6 @@
 - fig: '74'
   page: -9999
 - fig: '75'
-  page: -9999
-# check non number 82(concluded) 49
-#### last = 81, cur = 83
-#### missing figures between page 48 49
-- fig: '82'
   page: -9999
 #### last = 91, cur = 93
 #### missing figures between page 51 51
@@ -134,19 +102,6 @@
   page: -9999
 - fig: '99'
   page: -9999
-#### last = 102, cur = 108
-#### missing figures between page 54 54
-- fig: '103'
-  page: -9999
-- fig: '104'
-  page: -9999
-- fig: '105'
-  page: -9999
-- fig: '106'
-  page: -9999
-- fig: '107'
-  page: -9999
-#### backward??? last = 108, cur = 104
 #### last = 104, cur = 106
 #### missing figures between page 55 56
 - fig: '105'
@@ -172,12 +127,6 @@
 - fig: '121'
   page: -9999
 - fig: '122'
-  page: -9999
-# check non number 125(continued) 68
-# check non number 125(concluded) 69
-#### last = 124, cur = 126
-#### missing figures between page 67 75
-- fig: '125'
   page: -9999
 #### last = 131, cur = 133
 #### missing figures between page 77 78
@@ -215,70 +164,49 @@
   page: -9999
 - fig: '151'
   page: -9999
-#### backward??? last = 154, cur = 1
+#### wraparound??? last = 154, cur = 1
+#### wraparound figures between page 95 103
 #### last = 5, cur = 8
 #### missing figures between page 108 111
 - fig: '6'
   page: -9999
 - fig: '7'
   page: -9999
-# check non number 10(continued) 112
-# check non number 10(concluded) 113
-#### last = 9, cur = 12
-#### missing figures between page 111 113
-- fig: '10'
-  page: -9999
+#### last = 10, cur = 12
+#### missing figures between page 112 113
 - fig: '11'
   page: -9999
-# check non number 15(concluded) 118
-#### last = 13, cur = 17
-#### missing figures between page 113 126
+#### last = 13, cur = 15
+#### missing figures between page 113 117
 - fig: '14'
   page: -9999
-- fig: '15'
-  page: -9999
+#### last = 15, cur = 17
+#### missing figures between page 117 126
 - fig: '16'
   page: -9999
 #### last = 18, cur = 20
 #### missing figures between page 126 128
 - fig: '19'
   page: -9999
-#### last = 21, cur = 28
+#### last = 21, cur = 23
 #### missing figures between page 130 132
 - fig: '22'
   page: -9999
-- fig: '23'
-  page: -9999
+#### last = 23, cur = 25
+#### missing figures between page 132 136
 - fig: '24'
   page: -9999
-- fig: '25'
-  page: -9999
-- fig: '26'
-  page: -9999
-- fig: '27'
-  page: -9999
-#### backward??? last = 28, cur = 25
 #### last = 25, cur = 28
 #### missing figures between page 136 138
 - fig: '26'
   page: -9999
 - fig: '27'
   page: -9999
-# check non number 29(continued) 139
-# check non number 29(concluded) 140
-#### last = 28, cur = 30
-#### missing figures between page 138 140
-- fig: '29'
-  page: -9999
-# check non number 33(continued) 149
-# check non number 33(continued) 151
-#### last = 30, cur = 34
-#### missing figures between page 140 154
+#### last = 30, cur = 33
+#### missing figures between page 140 149
 - fig: '31'
   page: -9999
 - fig: '32'
-  page: -9999
-- fig: '33'
   page: -9999
 #### last = 34, cur = 39
 #### missing figures between page 154 160
@@ -290,26 +218,19 @@
   page: -9999
 - fig: '38'
   page: -9999
-# check non number 40(concluded) 163
-#### last = 39, cur = 42
-#### missing figures between page 160 165
-- fig: '40'
-  page: -9999
+#### last = 40, cur = 42
+#### missing figures between page 161 165
 - fig: '41'
   page: -9999
-# check non number 43(continued) 166
-# check non number 43(concluded) 167
-#### last = 42, cur = 45
-#### missing figures between page 165 169
-- fig: '43'
-  page: -9999
+#### last = 43, cur = 45
+#### missing figures between page 166 169
 - fig: '44'
   page: -9999
 #### last = 48, cur = 50
 #### missing figures between page 170 170
 - fig: '49'
   page: -9999
-#### last = 51, cur = 66
+#### last = 51, cur = 56
 #### missing figures between page 171 174
 - fig: '52'
   page: -9999
@@ -319,43 +240,23 @@
   page: -9999
 - fig: '55'
   page: -9999
-- fig: '56'
-  page: -9999
+#### last = 56, cur = 60
+#### missing figures between page 174 176
 - fig: '57'
   page: -9999
 - fig: '58'
   page: -9999
 - fig: '59'
   page: -9999
-- fig: '60'
-  page: -9999
-- fig: '61'
-  page: -9999
-- fig: '62'
-  page: -9999
-- fig: '63'
-  page: -9999
-- fig: '64'
-  page: -9999
-- fig: '65'
-  page: -9999
-#### backward??? last = 66, cur = 60
-#### backward??? last = 62, cur = 1
+#### wraparound??? last = 62, cur = 1
+#### wraparound figures between page 178 186
 #### last = 1, cur = 3
 #### missing figures between page 186 187
 - fig: '2'
   page: -9999
-#### backward??? last = 6, cur = 5
-#### last = 5, cur = 8
+#### last = 6, cur = 8
 #### missing figures between page 190 192
-- fig: '6'
-  page: -9999
 - fig: '7'
-  page: -9999
-#### backward??? last = 8, cur = 7
-#### last = 7, cur = 9
-#### missing figures between page 192 193
-- fig: '8'
   page: -9999
 #### last = 12, cur = 14
 #### missing figures between page 195 197
@@ -377,7 +278,6 @@
   page: -9999
 - fig: '38'
   page: -9999
-#### backward??? last = 40, cur = 39
 #### last = 41, cur = 43
 #### missing figures between page 215 217
 - fig: '42'
@@ -386,7 +286,8 @@
 #### missing figures between page 217 218
 - fig: '44'
   page: -9999
-#### backward??? last = 49, cur = 2
+#### wraparound??? last = 49, cur = 2
+#### wraparound figures between page 220 249
 #### last = 2, cur = 4
 #### missing figures between page 249 252
 - fig: '3'
@@ -453,19 +354,8 @@
   page: -9999
 - fig: '92'
   page: -9999
-#### last = 94, cur = 96
-#### missing figures between page 319 321
-- fig: '95'
-  page: -9999
-#### backward??? last = 96, cur = 95
-#### last = 95, cur = 97
-#### missing figures between page 321 322
-- fig: '96'
-  page: -9999
-# check non number 99(continued) 325
-# check non number 99(concluded) 326
 #### last = 100, cur = 102
-#### missing figures between page 326 329
+#### missing figures between page 325 329
 - fig: '101'
   page: -9999
 #### last = 104, cur = 106
@@ -498,7 +388,8 @@
   page: -9999
 - fig: '131'
   page: -9999
-#### backward??? last = 135, cur = 1
+#### wraparound??? last = 135, cur = 1
+#### wraparound figures between page 351 362
 #### last = 9, cur = 11
 #### missing figures between page 367 369
 - fig: '10'
@@ -511,29 +402,8 @@
 #### missing figures between page 375 379
 - fig: '25'
   page: -9999
-#### backward??? last = 29, cur = 20
-#### last = 21, cur = 33
+#### last = 31, cur = 33
 #### missing figures between page 379 381
-- fig: '22'
-  page: -9999
-- fig: '23'
-  page: -9999
-- fig: '24'
-  page: -9999
-- fig: '25'
-  page: -9999
-- fig: '26'
-  page: -9999
-- fig: '27'
-  page: -9999
-- fig: '28'
-  page: -9999
-- fig: '29'
-  page: -9999
-- fig: '30'
-  page: -9999
-- fig: '31'
-  page: -9999
 - fig: '32'
   page: -9999
 #### last = 36, cur = 38
@@ -586,19 +456,10 @@
 #### missing figures between page 414 416
 - fig: '81'
   page: -9999
-#### last = 82, cur = 88
-#### missing figures between page 416 416
-- fig: '83'
-  page: -9999
+#### last = 83, cur = 85
+#### missing figures between page 416 417
 - fig: '84'
   page: -9999
-- fig: '85'
-  page: -9999
-- fig: '86'
-  page: -9999
-- fig: '87'
-  page: -9999
-#### backward??? last = 88, cur = 85
 #### last = 87, cur = 89
 #### missing figures between page 417 418
 - fig: '88'
@@ -606,19 +467,6 @@
 #### last = 90, cur = 92
 #### missing figures between page 420 420
 - fig: '91'
-  page: -9999
-#### backward??? last = 92, cur = 88
-#### last = 88, cur = 94
-#### missing figures between page 421 421
-- fig: '89'
-  page: -9999
-- fig: '90'
-  page: -9999
-- fig: '91'
-  page: -9999
-- fig: '92'
-  page: -9999
-- fig: '93'
   page: -9999
 #### last = 96, cur = 98
 #### missing figures between page 422 423
@@ -730,114 +578,6 @@
 #### missing figures between page 513 515
 - fig: '233'
   page: -9999
-#### last = 235, cur = 286
-#### missing figures between page 515 516
-- fig: '236'
-  page: -9999
-- fig: '237'
-  page: -9999
-- fig: '238'
-  page: -9999
-- fig: '239'
-  page: -9999
-- fig: '240'
-  page: -9999
-- fig: '241'
-  page: -9999
-- fig: '242'
-  page: -9999
-- fig: '243'
-  page: -9999
-- fig: '244'
-  page: -9999
-- fig: '245'
-  page: -9999
-- fig: '246'
-  page: -9999
-- fig: '247'
-  page: -9999
-- fig: '248'
-  page: -9999
-- fig: '249'
-  page: -9999
-- fig: '250'
-  page: -9999
-- fig: '251'
-  page: -9999
-- fig: '252'
-  page: -9999
-- fig: '253'
-  page: -9999
-- fig: '254'
-  page: -9999
-- fig: '255'
-  page: -9999
-- fig: '256'
-  page: -9999
-- fig: '257'
-  page: -9999
-- fig: '258'
-  page: -9999
-- fig: '259'
-  page: -9999
-- fig: '260'
-  page: -9999
-- fig: '261'
-  page: -9999
-- fig: '262'
-  page: -9999
-- fig: '263'
-  page: -9999
-- fig: '264'
-  page: -9999
-- fig: '265'
-  page: -9999
-- fig: '266'
-  page: -9999
-- fig: '267'
-  page: -9999
-- fig: '268'
-  page: -9999
-- fig: '269'
-  page: -9999
-- fig: '270'
-  page: -9999
-- fig: '271'
-  page: -9999
-- fig: '272'
-  page: -9999
-- fig: '273'
-  page: -9999
-- fig: '274'
-  page: -9999
-- fig: '275'
-  page: -9999
-- fig: '276'
-  page: -9999
-- fig: '277'
-  page: -9999
-- fig: '278'
-  page: -9999
-- fig: '279'
-  page: -9999
-- fig: '280'
-  page: -9999
-- fig: '281'
-  page: -9999
-- fig: '282'
-  page: -9999
-- fig: '283'
-  page: -9999
-- fig: '284'
-  page: -9999
-- fig: '285'
-  page: -9999
-#### backward??? last = 288, cur = 239
-#### backward??? last = 251, cur = 250
-#### last = 250, cur = 252
-#### missing figures between page 528 529
-- fig: '251'
-  page: -9999
 #### last = 252, cur = 256
 #### missing figures between page 529 531
 - fig: '253'
@@ -900,25 +640,6 @@
 #### missing figures between page 580 581
 - fig: '342'
   page: -9999
-#### backward??? last = 343, cur = 335
-#### last = 335, cur = 344
-#### missing figures between page 582 582
-- fig: '336'
-  page: -9999
-- fig: '337'
-  page: -9999
-- fig: '338'
-  page: -9999
-- fig: '339'
-  page: -9999
-- fig: '340'
-  page: -9999
-- fig: '341'
-  page: -9999
-- fig: '342'
-  page: -9999
-- fig: '343'
-  page: -9999
 #### last = 345, cur = 348
 #### missing figures between page 582 586
 - fig: '346'
@@ -933,39 +654,8 @@
 #### missing figures between page 593 595
 - fig: '353'
   page: -9999
-#### backward??? last = 369, cur = 359
-#### last = 359, cur = 372
-#### missing figures between page 611 612
-- fig: '360'
-  page: -9999
-- fig: '361'
-  page: -9999
-- fig: '362'
-  page: -9999
-- fig: '363'
-  page: -9999
-- fig: '364'
-  page: -9999
-- fig: '365'
-  page: -9999
-- fig: '366'
-  page: -9999
-- fig: '367'
-  page: -9999
-- fig: '368'
-  page: -9999
-- fig: '369'
-  page: -9999
-- fig: '370'
-  page: -9999
-- fig: '371'
-  page: -9999
-#### backward??? last = 372, cur = 1
-#### backward??? last = 3, cur = 2
-#### last = 2, cur = 4
-#### missing figures between page 621 622
-- fig: '3'
-  page: -9999
+#### wraparound??? last = 372, cur = 1
+#### wraparound figures between page 613 620
 #### last = 8, cur = 10
 #### missing figures between page 626 629
 - fig: '9'
@@ -1008,7 +698,8 @@
 #### missing figures between page 686 687
 - fig: '70'
   page: -9999
-#### backward??? last = 74, cur = 2
+#### wraparound??? last = 74, cur = 2
+#### wraparound figures between page 689 699
 #### last = 4, cur = 6
 #### missing figures between page 701 703
 - fig: '5'
@@ -1039,29 +730,8 @@
   page: -9999
 - fig: '27'
   page: -9999
-#### backward??? last = 28, cur = 20
-#### last = 20, cur = 29
-#### missing figures between page 722 723
-- fig: '21'
-  page: -9999
-- fig: '22'
-  page: -9999
-- fig: '23'
-  page: -9999
-- fig: '24'
-  page: -9999
-- fig: '25'
-  page: -9999
-- fig: '26'
-  page: -9999
-- fig: '27'
-  page: -9999
-- fig: '28'
-  page: -9999
-#### last = 29, cur = 32
+#### last = 30, cur = 32
 #### missing figures between page 723 724
-- fig: '30'
-  page: -9999
 - fig: '31'
   page: -9999
 #### last = 32, cur = 35
@@ -1154,11 +824,8 @@
 #### missing figures between page 815 817
 - fig: '115'
   page: -9999
-#### backward??? last = 125, cur = 124
-#### last = 124, cur = 129
+#### last = 125, cur = 129
 #### missing figures between page 838 847
-- fig: '125'
-  page: -9999
 - fig: '126'
   page: -9999
 - fig: '127'
@@ -1166,7 +833,8 @@
 - fig: '128'
   page: -9999
 # check non number 133(2) 862
-#### backward??? last = 143, cur = 1
+#### wraparound??? last = 143, cur = 1
+#### wraparound figures between page 877 886
 #### last = 4, cur = 7
 #### missing figures between page 889 895
 - fig: '5'
@@ -1187,129 +855,6 @@
   page: -9999
 - fig: '14'
   page: -9999
-#### last = 16, cur = 77
-#### missing figures between page 906 908
-- fig: '17'
-  page: -9999
-- fig: '18'
-  page: -9999
-- fig: '19'
-  page: -9999
-- fig: '20'
-  page: -9999
-- fig: '21'
-  page: -9999
-- fig: '22'
-  page: -9999
-- fig: '23'
-  page: -9999
-- fig: '24'
-  page: -9999
-- fig: '25'
-  page: -9999
-- fig: '26'
-  page: -9999
-- fig: '27'
-  page: -9999
-- fig: '28'
-  page: -9999
-- fig: '29'
-  page: -9999
-- fig: '30'
-  page: -9999
-- fig: '31'
-  page: -9999
-- fig: '32'
-  page: -9999
-- fig: '33'
-  page: -9999
-- fig: '34'
-  page: -9999
-- fig: '35'
-  page: -9999
-- fig: '36'
-  page: -9999
-- fig: '37'
-  page: -9999
-- fig: '38'
-  page: -9999
-- fig: '39'
-  page: -9999
-- fig: '40'
-  page: -9999
-- fig: '41'
-  page: -9999
-- fig: '42'
-  page: -9999
-- fig: '43'
-  page: -9999
-- fig: '44'
-  page: -9999
-- fig: '45'
-  page: -9999
-- fig: '46'
-  page: -9999
-- fig: '47'
-  page: -9999
-- fig: '48'
-  page: -9999
-- fig: '49'
-  page: -9999
-- fig: '50'
-  page: -9999
-- fig: '51'
-  page: -9999
-- fig: '52'
-  page: -9999
-- fig: '53'
-  page: -9999
-- fig: '54'
-  page: -9999
-- fig: '55'
-  page: -9999
-- fig: '56'
-  page: -9999
-- fig: '57'
-  page: -9999
-- fig: '58'
-  page: -9999
-- fig: '59'
-  page: -9999
-- fig: '60'
-  page: -9999
-- fig: '61'
-  page: -9999
-- fig: '62'
-  page: -9999
-- fig: '63'
-  page: -9999
-- fig: '64'
-  page: -9999
-- fig: '65'
-  page: -9999
-- fig: '66'
-  page: -9999
-- fig: '67'
-  page: -9999
-- fig: '68'
-  page: -9999
-- fig: '69'
-  page: -9999
-- fig: '70'
-  page: -9999
-- fig: '71'
-  page: -9999
-- fig: '72'
-  page: -9999
-- fig: '73'
-  page: -9999
-- fig: '74'
-  page: -9999
-- fig: '75'
-  page: -9999
-- fig: '76'
-  page: -9999
-#### backward??? last = 77, cur = 17
 #### last = 17, cur = 19
 #### missing figures between page 909 912
 - fig: '18'
@@ -1512,7 +1057,8 @@
   page: -9999
 - fig: '175'
   page: -9999
-#### backward??? last = 177, cur = 1
+#### wraparound??? last = 177, cur = 1
+#### wraparound figures between page 1055 1066
 #### last = 5, cur = 7
 #### missing figures between page 1071 1072
 - fig: '6'
@@ -1536,13 +1082,6 @@
 #### last = 16, cur = 18
 #### missing figures between page 1082 1085
 - fig: '17'
-  page: -9999
-#### backward??? last = 20, cur = 19
-#### last = 19, cur = 22
-#### missing figures between page 1088 1090
-- fig: '20'
-  page: -9999
-- fig: '21'
   page: -9999
 #### last = 22, cur = 24
 #### missing figures between page 1090 1093
@@ -1616,10 +1155,8 @@
 #### missing figures between page 1152 1156
 - fig: '68'
   page: -9999
-#### last = 69, cur = 85
-#### missing figures between page 1156 1166
-- fig: '70'
-  page: -9999
+#### last = 70, cur = 81
+#### missing figures between page 1157 1159
 - fig: '71'
   page: -9999
 - fig: '72'
@@ -1639,18 +1176,6 @@
 - fig: '79'
   page: -9999
 - fig: '80'
-  page: -9999
-- fig: '81'
-  page: -9999
-- fig: '82'
-  page: -9999
-- fig: '83'
-  page: -9999
-- fig: '84'
-  page: -9999
-#### last = 86, cur = 88
-#### missing figures between page 1167 1172
-- fig: '87'
   page: -9999
 #### last = 90, cur = 93
 #### missing figures between page 1175 1179
@@ -1712,18 +1237,12 @@
 #### missing figures between page 1238 1241
 - fig: '142'
   page: -9999
-#### backward??? last = 143, cur = 142
-#### last = 142, cur = 145
-#### missing figures between page 1244 1245
-- fig: '143'
-  page: -9999
-- fig: '144'
-  page: -9999
 #### last = 146, cur = 148
 #### missing figures between page 1246 1247
 - fig: '147'
   page: -9999
-#### backward??? last = 148, cur = 1
+#### wraparound??? last = 148, cur = 1
+#### wraparound figures between page 1247 1257
 #### last = 3, cur = 5
 #### missing figures between page 1258 1259
 - fig: '4'
@@ -1738,15 +1257,6 @@
 #### missing figures between page 1264 1266
 - fig: '12'
   page: -9999
-#### backward??? last = 13, cur = 10
-#### last = 10, cur = 14
-#### missing figures between page 1266 1267
-- fig: '11'
-  page: -9999
-- fig: '12'
-  page: -9999
-- fig: '13'
-  page: -9999
 #### last = 14, cur = 16
 #### missing figures between page 1267 1269
 - fig: '15'
@@ -1755,7 +1265,8 @@
 #### missing figures between page 1269 1270
 - fig: '17'
   page: -9999
-#### backward??? last = 19, cur = 2
+#### wraparound??? last = 19, cur = 2
+#### wraparound figures between page 1271 1282
 #### last = 5, cur = 7
 #### missing figures between page 1285 1287
 - fig: '6'
@@ -1768,13 +1279,8 @@
 #### missing figures between page 1289 1291
 - fig: '11'
   page: -9999
-#### backward??? last = 13, cur = 12
-#### last = 12, cur = 16
+#### last = 14, cur = 16
 #### missing figures between page 1293 1294
-- fig: '13'
-  page: -9999
-- fig: '14'
-  page: -9999
 - fig: '15'
   page: -9999
 #### last = 17, cur = 19
@@ -1802,18 +1308,7 @@
 - fig: '39'
   page: -9999
 #### backward??? last = 45, cur = 44
-#### last = 44, cur = 46
-#### missing figures between page 1364 1373
-- fig: '45'
-  page: -9999
-#### last = 47, cur = 49
-#### missing figures between page 1383 1385
-- fig: '48'
-  page: -9999
-#### last = 51, cur = 53
-#### missing figures between page 1391 1394
-- fig: '52'
-  page: -9999
+#### backward figures between page 1346 1364
 #### last = 59, cur = 61
 #### missing figures between page 1419 1422
 - fig: '60'
@@ -1846,7 +1341,8 @@
 #### missing figures between page 1469 1474
 - fig: '96'
   page: -9999
-#### backward??? last = 98, cur = 1
+#### wraparound??? last = 98, cur = 1
+#### wraparound figures between page 1476 1490
 #### last = 2, cur = 4
 #### missing figures between page 1491 1491
 - fig: '3'
@@ -1899,127 +1395,6 @@
 #### missing figures between page 1564 1567
 - fig: '73'
   page: -9999
-#### backward??? last = 75, cur = 16
-#### last = 16, cur = 76
-#### missing figures between page 1572 1573
-- fig: '17'
-  page: -9999
-- fig: '18'
-  page: -9999
-- fig: '19'
-  page: -9999
-- fig: '20'
-  page: -9999
-- fig: '21'
-  page: -9999
-- fig: '22'
-  page: -9999
-- fig: '23'
-  page: -9999
-- fig: '24'
-  page: -9999
-- fig: '25'
-  page: -9999
-- fig: '26'
-  page: -9999
-- fig: '27'
-  page: -9999
-- fig: '28'
-  page: -9999
-- fig: '29'
-  page: -9999
-- fig: '30'
-  page: -9999
-- fig: '31'
-  page: -9999
-- fig: '32'
-  page: -9999
-- fig: '33'
-  page: -9999
-- fig: '34'
-  page: -9999
-- fig: '35'
-  page: -9999
-- fig: '36'
-  page: -9999
-- fig: '37'
-  page: -9999
-- fig: '38'
-  page: -9999
-- fig: '39'
-  page: -9999
-- fig: '40'
-  page: -9999
-- fig: '41'
-  page: -9999
-- fig: '42'
-  page: -9999
-- fig: '43'
-  page: -9999
-- fig: '44'
-  page: -9999
-- fig: '45'
-  page: -9999
-- fig: '46'
-  page: -9999
-- fig: '47'
-  page: -9999
-- fig: '48'
-  page: -9999
-- fig: '49'
-  page: -9999
-- fig: '50'
-  page: -9999
-- fig: '51'
-  page: -9999
-- fig: '52'
-  page: -9999
-- fig: '53'
-  page: -9999
-- fig: '54'
-  page: -9999
-- fig: '55'
-  page: -9999
-- fig: '56'
-  page: -9999
-- fig: '57'
-  page: -9999
-- fig: '58'
-  page: -9999
-- fig: '59'
-  page: -9999
-- fig: '60'
-  page: -9999
-- fig: '61'
-  page: -9999
-- fig: '62'
-  page: -9999
-- fig: '63'
-  page: -9999
-- fig: '64'
-  page: -9999
-- fig: '65'
-  page: -9999
-- fig: '66'
-  page: -9999
-- fig: '67'
-  page: -9999
-- fig: '68'
-  page: -9999
-- fig: '69'
-  page: -9999
-- fig: '70'
-  page: -9999
-- fig: '71'
-  page: -9999
-- fig: '72'
-  page: -9999
-- fig: '73'
-  page: -9999
-- fig: '74'
-  page: -9999
-- fig: '75'
-  page: -9999
 #### last = 78, cur = 80
 #### missing figures between page 1574 1587
 - fig: '79'
@@ -2035,11 +1410,6 @@
 #### last = 90, cur = 92
 #### missing figures between page 1590 1591
 - fig: '91'
-  page: -9999
-#### backward??? last = 95, cur = 94
-#### last = 94, cur = 96
-#### missing figures between page 1593 1596
-- fig: '95'
   page: -9999
 #### last = 96, cur = 99
 #### missing figures between page 1596 1600

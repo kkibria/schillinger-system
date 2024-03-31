@@ -18,7 +18,7 @@
   page: 7
 - fig: '13'
   page: 8
-- fig: '11'
+- fig: '14'
   page: 8
 - fig: '16'
   page: 9
@@ -48,10 +48,8 @@
   page: 18
 - fig: '34'
   page: 19
-- fig: 36(continued)
+- fig: '36'
   page: 19
-- fig: 36(concluded)
-  page: 20
 - fig: '37'
   page: 21
 - fig: '39'
@@ -62,7 +60,7 @@
   page: 23
 - fig: '44'
   page: 23
-- fig: '43'
+- fig: '45'
   page: 23
 - fig: '47'
   page: 25
@@ -76,7 +74,7 @@
   page: 28
 - fig: '53'
   page: 29
-- fig: 54(continued)
+- fig: '54'
   page: 30
 - fig: '56'
   page: 33
@@ -86,10 +84,8 @@
   page: 37
 - fig: '61'
   page: 37
-- fig: 65(continued)
+- fig: '65'
   page: 38
-- fig: 65(concluded)
-  page: 39
 - fig: '66'
   page: 39
 - fig: '67'
@@ -98,10 +94,8 @@
   page: 40
 - fig: '70'
   page: 41
-- fig: 71(continued)
+- fig: '71'
   page: 41
-- fig: 72(concluded)
-  page: 43
 - fig: '73'
   page: 43
 - fig: '76'
@@ -116,8 +110,8 @@
   page: 48
 - fig: '81'
   page: 48
-- fig: 82(concluded)
-  page: 49
+- fig: '82'
+  page: 48
 - fig: '83'
   page: 49
 - fig: '84'
@@ -148,7 +142,7 @@
   page: 54
 - fig: '102'
   page: 54
-- fig: '108'
+- fig: '103'
   page: 54
 - fig: '104'
   page: 55
@@ -174,10 +168,8 @@
   page: 67
 - fig: '124'
   page: 67
-- fig: 125(continued)
+- fig: '125'
   page: 68
-- fig: 125(concluded)
-  page: 69
 - fig: '126'
   page: 75
 - fig: '127'
@@ -226,16 +218,14 @@
   page: 111
 - fig: '9'
   page: 111
-- fig: 10(continued)
+- fig: '10'
   page: 112
-- fig: 10(concluded)
-  page: 113
 - fig: '12'
   page: 113
 - fig: '13'
   page: 113
-- fig: 15(concluded)
-  page: 118
+- fig: '15'
+  page: 117
 - fig: '17'
   page: 126
 - fig: '18'
@@ -244,34 +234,28 @@
   page: 128
 - fig: '21'
   page: 130
-- fig: '28'
+- fig: '23'
   page: 132
 - fig: '25'
   page: 136
 - fig: '28'
   page: 138
-- fig: 29(continued)
+- fig: '29'
   page: 139
-- fig: 29(concluded)
-  page: 140
 - fig: '30'
   page: 140
-- fig: 33(continued)
+- fig: '33'
   page: 149
-- fig: 33(continued)
-  page: 151
 - fig: '34'
   page: 154
 - fig: '39'
   page: 160
-- fig: 40(concluded)
-  page: 163
+- fig: '40'
+  page: 161
 - fig: '42'
   page: 165
-- fig: 43(continued)
+- fig: '43'
   page: 166
-- fig: 43(concluded)
-  page: 167
 - fig: '45'
   page: 169
 - fig: '46'
@@ -284,7 +268,7 @@
   page: 170
 - fig: '51'
   page: 171
-- fig: '66'
+- fig: '56'
   page: 174
 - fig: '60'
   page: 176
@@ -302,11 +286,7 @@
   page: 189
 - fig: '6'
   page: 190
-- fig: '5'
-  page: 190
 - fig: '8'
-  page: 192
-- fig: '7'
   page: 192
 - fig: '9'
   page: 193
@@ -358,16 +338,8 @@
   page: 209
 - fig: '39'
   page: 212
-- fig: '39'
-  page: 213
-- fig: '39'
-  page: 214
 - fig: '40'
   page: 214
-- fig: '39'
-  page: 214
-- fig: '40'
-  page: 215
 - fig: '41'
   page: 215
 - fig: '43'
@@ -382,8 +354,6 @@
   page: 220
 - fig: '49'
   page: 220
-- fig: '49'
-  page: 221
 - fig: '2'
   page: 249
 - fig: '4'
@@ -538,9 +508,9 @@
   page: 318
 - fig: '94'
   page: 319
-- fig: '96'
-  page: 321
 - fig: '95'
+  page: 320
+- fig: '96'
   page: 321
 - fig: '97'
   page: 322
@@ -552,12 +522,6 @@
   page: 324
 - fig: '100'
   page: 325
-- fig: 99(continued)
-  page: 325
-- fig: '100'
-  page: 326
-- fig: 99(concluded)
-  page: 326
 - fig: '102'
   page: 329
 - fig: '102'
@@ -672,9 +636,9 @@
   page: 379
 - fig: '29'
   page: 379
-- fig: '20'
+- fig: '30'
   page: 379
-- fig: '21'
+- fig: '31'
   page: 379
 - fig: '33'
   page: 381
@@ -754,7 +718,7 @@
   page: 414
 - fig: '82'
   page: 416
-- fig: '88'
+- fig: '83'
   page: 416
 - fig: '85'
   page: 417
@@ -768,7 +732,7 @@
   page: 420
 - fig: '92'
   page: 420
-- fig: '88'
+- fig: '93'
   page: 421
 - fig: '94'
   page: 421
@@ -1000,11 +964,11 @@
   page: 515
 - fig: '235'
   page: 515
-- fig: '286'
+- fig: '236'
   page: 516
-- fig: '287'
+- fig: '237'
   page: 516
-- fig: '288'
+- fig: '238'
   page: 517
 - fig: '239'
   page: 518
@@ -1031,8 +995,6 @@
 - fig: '250'
   page: 527
 - fig: '251'
-  page: 528
-- fig: '250'
   page: 528
 - fig: '252'
   page: 529
@@ -1192,8 +1154,6 @@
   page: 580
 - fig: '343'
   page: 581
-- fig: '335'
-  page: 582
 - fig: '344'
   page: 582
 - fig: '345'
@@ -1242,9 +1202,9 @@
   page: 609
 - fig: '369'
   page: 610
-- fig: '359'
+- fig: '370'
   page: 611
-- fig: '372'
+- fig: '371'
   page: 612
 - fig: '372'
   page: 613
@@ -1253,8 +1213,6 @@
 - fig: '2'
   page: 621
 - fig: '3'
-  page: 621
-- fig: '2'
   page: 621
 - fig: '4'
   page: 622
@@ -1450,9 +1408,9 @@
   page: 719
 - fig: '28'
   page: 722
-- fig: '20'
-  page: 722
 - fig: '29'
+  page: 723
+- fig: '30'
   page: 723
 - fig: '32'
   page: 724
@@ -1460,10 +1418,6 @@
   page: 728
 - fig: '39'
   page: 731
-- fig: '39'
-  page: 732
-- fig: '39'
-  page: 733
 - fig: '40'
   page: 733
 - fig: '41'
@@ -1600,11 +1554,7 @@
   page: 834
 - fig: '124'
   page: 837
-- fig: '124'
-  page: 838
 - fig: '125'
-  page: 838
-- fig: '124'
   page: 838
 - fig: '129'
   page: 847
@@ -1674,12 +1624,8 @@
   page: 898
 - fig: '15'
   page: 905
-- fig: '15'
-  page: 906
 - fig: '16'
   page: 906
-- fig: '77'
-  page: 908
 - fig: '17'
   page: 909
 - fig: '19'
@@ -1916,7 +1862,7 @@
   page: 1086
 - fig: '20'
   page: 1086
-- fig: '19'
+- fig: '21'
   page: 1088
 - fig: '22'
   page: 1090
@@ -1978,10 +1924,22 @@
   page: 1152
 - fig: '69'
   page: 1156
+- fig: '70'
+  page: 1157
+- fig: '81'
+  page: 1159
+- fig: '82'
+  page: 1162
+- fig: '83'
+  page: 1163
+- fig: '84'
+  page: 1166
 - fig: '85'
   page: 1166
 - fig: '86'
   page: 1167
+- fig: '87'
+  page: 1170
 - fig: '88'
   page: 1172
 - fig: '89'
@@ -2070,7 +2028,7 @@
   page: 1238
 - fig: '143'
   page: 1241
-- fig: '142'
+- fig: '144'
   page: 1244
 - fig: '145'
   page: 1245
@@ -2099,8 +2057,6 @@
 - fig: '11'
   page: 1264
 - fig: '13'
-  page: 1266
-- fig: '10'
   page: 1266
 - fig: '14'
   page: 1267
@@ -2132,7 +2088,7 @@
   page: 1291
 - fig: '13'
   page: 1292
-- fig: '12'
+- fig: '14'
   page: 1293
 - fig: '16'
   page: 1294
@@ -2200,36 +2156,26 @@
   page: 1346
 - fig: '44'
   page: 1364
+- fig: '45'
+  page: 1371
 - fig: '46'
   page: 1373
-- fig: '46'
-  page: 1376
 - fig: '47'
   page: 1379
-- fig: '47'
-  page: 1380
-- fig: '47'
-  page: 1383
+- fig: '48'
+  page: 1384
 - fig: '49'
   page: 1385
-- fig: '49'
-  page: 1386
-- fig: '49'
-  page: 1387
-- fig: '49'
-  page: 1388
 - fig: '50'
-  page: 1390
+  page: 1389
 - fig: '51'
   page: 1390
-- fig: '51'
-  page: 1391
+- fig: '52'
+  page: 1392
 - fig: '53'
-  page: 1394
+  page: 1392
 - fig: '54'
-  page: 1397
-- fig: '54'
-  page: 1398
+  page: 1395
 - fig: '55'
   page: 1401
 - fig: '56'
@@ -2440,10 +2386,8 @@
   page: 1567
 - fig: '75'
   page: 1567
-- fig: '16'
-  page: 1572
 - fig: '76'
-  page: 1573
+  page: 1572
 - fig: '77'
   page: 1573
 - fig: '78'
@@ -2473,8 +2417,6 @@
 - fig: '94'
   page: 1592
 - fig: '95'
-  page: 1593
-- fig: '94'
   page: 1593
 - fig: '96'
   page: 1596

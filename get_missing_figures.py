@@ -13,7 +13,11 @@ def check_missing(fig, page):
     if last is not None:
         delta = fig - last
         if delta < 0:
-            print(f"#### backward??? last = {last}, cur = {fig}")
+            type = "wraparound"
+            if delta > -15:
+                type = "backward"
+            print(f"#### {type}??? last = {last}, cur = {fig}")
+            print(f"#### {type} figures between page {lastpage} {page}")
         if delta > 1:
             print(f"#### last = {last}, cur = {fig}")
             print(f"#### missing figures between page {lastpage} {page}")
