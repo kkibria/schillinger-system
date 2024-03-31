@@ -30,10 +30,9 @@ fig_list = get_fig_list(pfigidx)
 last = None
 lastpage = None
 
-f = sys.stdout
 with open("missing_figures.yaml", "w") as sys.stdout:
     for i in fig_list:
         check_missing(**i)
-sys.stdout = f
+sys.stdout = sys.__stdout__
 
 print("done")
